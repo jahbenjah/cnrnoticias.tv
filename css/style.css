@@ -5,7 +5,7 @@ body {
     color: #000000;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    background: #ffffff;
+    background: #000000;
 }
 
 a {
@@ -131,7 +131,7 @@ button.btn:hover {
 .top-bar .tb-contact p {
     display: inline-block;
     margin: 0;
-    color: #FF6F61;
+    color: #ffffff;
     font-size: 14px;
 }
 
@@ -149,7 +149,7 @@ button.btn:hover {
 }
 
 .top-bar .tb-menu a {
-    color: #FF6F61;
+    color: #ffffff;
     font-size: 14px;
     margin: 0 8px;
 }
@@ -166,7 +166,7 @@ button.btn:hover {
     position: absolute;
     content: "/";
     margin: 1px 0 0 6px;
-    color: #FF6F61;
+    color: #a39391;
     font-size: 14px;
 }
 
@@ -497,7 +497,7 @@ button.btn:hover {
 }
 
 .cat-news h2 {
-    color: #000000;
+    color: #ffffff;
     margin-bottom: 30px;
     padding-bottom: 15px;
     border-bottom: 3px double #000000;
@@ -607,12 +607,12 @@ button.btn:hover {
 .tab-news .nav.nav-pills .nav-link:hover,
 .tab-news .nav.nav-pills .nav-link.active {
     color: #ffffff;
-    background: #FF6F61;
+    background: #000000;
 }
 
 .tab-news .tab-content {
     padding: 30px 15px 15px 15px;
-    background: rgba(0, 0, 0, .05);
+    background: rgba(201, 44, 44, 0.05);
 }
 
 .tab-news .tn-news {
@@ -635,7 +635,7 @@ button.btn:hover {
 }
 
 .tab-news .tn-title a {
-    color: #000000;
+    color: #ffffff;
     font-size: 18px;
     font-weight: 400;
     transition: all .3s;
@@ -704,7 +704,7 @@ button.btn:hover {
 }
 
 .main-news .mn-list h2 {
-    color: #000000;
+    color: #ffffff;
     margin-bottom: 30px;
     padding-bottom: 15px;
     border-bottom: 3px double #000000;
@@ -725,7 +725,7 @@ button.btn:hover {
 }
 
 .main-news .mn-list ul li a {
-    color: #000000;
+    color: #ffffff;
     display: block;
     line-height: 23px;
 }
@@ -735,7 +735,7 @@ button.btn:hover {
     content: '\f061';
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
-    color: #000000;
+    color: #ffffff;
     left: 1px;
 }
 
@@ -793,10 +793,22 @@ button.btn:hover {
     padding: 30px 0;
 }
 
+.single-news .sn-content p {
+    color: #ffffff;
+}
+
+.single-news .sn-content h4 {
+    color: #ffffff;
+}
+
+.single-news .sn-content h3 {
+    color: #ffffff;
+}
+
 .single-news .sn-content h1.sn-title {
     display: block;
     width: 100%;
-    color: #000000;
+    color: #ffffff;
 }
 
 .single-news .sn-related {
@@ -804,7 +816,7 @@ button.btn:hover {
 }
 
 .single-news .sn-related h2 {
-    color: #000000;
+    color: #ffffff;
     margin-bottom: 30px;
     padding-bottom: 15px;
     border-bottom: 3px double #000000;
@@ -909,7 +921,7 @@ button.btn:hover {
 }
 
 .sidebar .sidebar-widget h2.sw-title {
-    color: #000000;
+    color: #ffffff;
     margin-bottom: 30px;
     padding-bottom: 15px;
     border-bottom: 3px double #000000;
@@ -939,7 +951,7 @@ button.btn:hover {
 }
 
 .sidebar .news-list .nl-item .nl-title a {
-    color: #000000;
+    color: #ffffff;
     font-size: 16px;
     font-weight: 400;
     transition: all .3s;
@@ -1024,7 +1036,7 @@ button.btn:hover {
 
 .sidebar .category ul li a {
     display: inline-block;
-    color: #000000;
+    color: #ffffff;
     line-height: 23px;
 }
 
@@ -1037,13 +1049,14 @@ button.btn:hover {
     content: '\f061';
     font-family: 'Font Awesome 5 Free';
     font-weight: 900;
-    color: #000000;
+    color: #ffffff;
     left: 1px;
 }
 
 .sidebar .category ul li span {
     display: inline-block;
     float: right;
+    color: #ffffff;
 }
 
 .sidebar .sidebar-widget .tags {
@@ -1092,19 +1105,28 @@ button.btn:hover {
     padding: 25px 0 15px 0;
 }
 
+.contact .contact-info h3 {
+    color: #ffffff;
+}
+
+.contact .contact-info p {
+    color: #ffffff;
+}
+
 .contact .contact-form,
 .contact .contact-info {
     margin-bottom: 45px;
 }
 
 .contact .contact-info h4 {
+    color: #ffffff;
     margin-bottom: 10px;
     font-size: 16px;
     font-weight: 400;
 }
 
 .contact .contact-info h4 i {
-    color: #000000;
+    color: #ffffff;
     margin-right: 5px;
 }
 
@@ -1121,12 +1143,12 @@ button.btn:hover {
     padding: 7px 0;
     text-align: center;
     font-size: 18px;
-    border: 1px solid #000000;
+    border: 1px solid #ffffff;
     border-radius: 4px;
 }
 
 .contact .social a i {
-    color: #000000;
+    color: #ffffff;
 }
 
 .contact .social a:hover {
