@@ -619,7 +619,7 @@ button.btn:hover {
     display: flex;
     align-items: center;
     margin-bottom: 15px;
-    background: #ffffff;
+    background: #000000;
 }
 
 .tab-news .tn-img {
