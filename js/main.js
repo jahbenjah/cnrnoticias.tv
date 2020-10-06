@@ -123,5 +123,19 @@
             }
         ]
     });
+
+  // Initi AOS
+  function aos_init() {
+    AOS.init({
+      duration: 500,
+      once: true
+    });
+  }
+  $(window).on('load', function() {
+    aos_init();
+    $('#event').magnificPopup({type: 'image'});
+    $('#event').click();
+  }); 
+     
 })(jQuery);
 
