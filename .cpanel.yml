@@ -1,0 +1,12 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/cnrnoticias/public_html/demo
+    - /bin/cp contact.html $DEPLOYPATH
+    - /bin/cp ensenada.html $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp rosarito.html $DEPLOYPATH
+    - /bin/cp san-diego.html $DEPLOYPATH
+    - /bin/cp tecate.html $DEPLOYPATH
+    - /bin/cp tecate.html $DEPLOYPATH
+    - /bin/cp tijuana.html $DEPLOYPATH
