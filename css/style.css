@@ -307,7 +307,7 @@ button.btn:hover {
 @media (min-width: 768px) {
     .nav-bar,
     .nav-bar .navbar {
-        background: #ff1500 !important;
+        background: #6C0E10 !important;
     }
     
     .nav-bar .navbar-brand {
@@ -1369,6 +1369,7 @@ button.btn:hover {
 .footer-bottom .copyright p a,
 .footer-bottom .template-by p a {
     font-weight: 600;
+    color: #E22225;
 }
 
 .footer-bottom .copyright p a:hover,
