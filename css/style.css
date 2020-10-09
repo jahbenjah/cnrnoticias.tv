@@ -5,7 +5,7 @@ body {
     color: #000000;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    background: #7c170f;
+    background: #000000;
 }
 
 a {
@@ -186,7 +186,7 @@ button.btn:hover {
 /*********** Brand CSS ************/
 /**********************************/
 .brand {
-    margin: 15px 0;
+    margin: 0px 0;
     background: #7c170f;
 }
 
@@ -600,26 +600,26 @@ button.btn:hover {
 
 .tab-news .nav.nav-pills .nav-link {
     color: #ffffff;
-    background: #000000;
+    background: #7c7c7b;
     border-radius: 0;
 }
 
 .tab-news .nav.nav-pills .nav-link:hover,
 .tab-news .nav.nav-pills .nav-link.active {
     color: #ffffff;
-    background: #000000;
+    background: #7c7c7b;
 }
 
 .tab-news .tab-content {
     padding: 30px 15px 15px 15px;
-    background: rgba(201, 44, 44, 0.05);
+    background: #7c170f;
 }
 
 .tab-news .tn-news {
     display: flex;
     align-items: center;
     margin-bottom: 15px;
-    background: #000000;
+    background: #7c170f;
 }
 
 .tab-news .tn-img {
@@ -635,14 +635,14 @@ button.btn:hover {
 }
 
 .tab-news .tn-title a {
-    color: #ffffff;
+    color: rgb(255, 255, 255);
     font-size: 18px;
     font-weight: 400;
     transition: all .3s;
 }
 
 .tab-news .tn-title a:hover {
-    color: #7c170f;
+    color: #7c7c7b;
 }
 
 
@@ -696,7 +696,7 @@ button.btn:hover {
 }
 
 .main-news .mn-title a:hover {
-    color: #7c7c7b;
+    color: #ffffff;
 }
 
 .main-news .mn-list {
@@ -740,7 +740,7 @@ button.btn:hover {
 }
 
 .main-news .mn-list ul li a:hover {
-    color: #7c170f;
+    color: #7c7c7b;
 }
 
 
