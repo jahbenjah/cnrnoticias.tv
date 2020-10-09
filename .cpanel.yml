@@ -10,7 +10,7 @@ deployment:
     - /bin/cp tecate.html $DEPLOYPATH
     - /bin/cp tecate.html $DEPLOYPATH
     - /bin/cp tijuana.html $DEPLOYPATH
-    - /bin/cp css $DEPLOYPATH
-    - /bin/cp img $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R img $DEPLOYPATH
        
     
