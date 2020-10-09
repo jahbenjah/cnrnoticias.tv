@@ -5,7 +5,7 @@ body {
     color: #000000;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    background: #000000;
+    background: #7c170f;
 }
 
 a {
@@ -187,7 +187,7 @@ button.btn:hover {
 /**********************************/
 .brand {
     margin: 15px 0;
-    background: #000000;
+    background: #7c170f;
 }
 
 .brand .b-logo {
@@ -234,13 +234,13 @@ button.btn:hover {
     right: 15px;
     border: none;
     background: none;
-    color: #FF6F61;
+    color: #7c7c7b;
     border-radius: 0 4px 4px 0;
 }
 
 .brand .b-search button:hover {
-    background: #FF6F61;
-    color: #ffffff;
+    background: #7c170f;
+    color: #7c7c7b;
 }
 
 @media (min-width: 768px) {
@@ -307,7 +307,7 @@ button.btn:hover {
 @media (min-width: 768px) {
     .nav-bar,
     .nav-bar .navbar {
-        background: #6C0E10 !important;
+        background: #7c170f!important;
     }
     
     .nav-bar .navbar-brand {
@@ -354,7 +354,7 @@ button.btn:hover {
     padding: 3px 0;
     text-align: center;
     font-size: 14px;
-    background: #FF6F61;
+    background:#7c170f;
     border: 1px solid #ffffff;
     border-radius: 4px;
 }
@@ -369,7 +369,7 @@ button.btn:hover {
 }
 
 .nav-bar .social a:hover i {
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 
@@ -642,7 +642,7 @@ button.btn:hover {
 }
 
 .tab-news .tn-title a:hover {
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 
@@ -696,7 +696,7 @@ button.btn:hover {
 }
 
 .main-news .mn-title a:hover {
-    color: #FF6F61;
+    color: #7c7c7b;
 }
 
 .main-news .mn-list {
@@ -740,7 +740,7 @@ button.btn:hover {
 }
 
 .main-news .mn-list ul li a:hover {
-    color: #FF6F61;
+    color: #7c170f;
 }
 
 
@@ -1143,7 +1143,7 @@ button.btn:hover {
     padding: 7px 0;
     text-align: center;
     font-size: 18px;
-    border: 1px solid #ffffff;
+    border: 1px solid #7c7c7b;
     border-radius: 4px;
 }
 
@@ -1152,8 +1152,8 @@ button.btn:hover {
 }
 
 .contact .social a:hover {
-    background: #FF6F61;
-    border-color: #FF6F61;
+    background: #7c170f;
+    border-color: #7c7c7b;
 }
 
 .contact .social a:hover i {
@@ -1369,7 +1369,7 @@ button.btn:hover {
 .footer-bottom .copyright p a,
 .footer-bottom .template-by p a {
     font-weight: 600;
-    color: #E22225;
+    color: #7c170f;
 }
 
 .footer-bottom .copyright p a:hover,
