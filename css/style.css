@@ -500,7 +500,7 @@ button.btn:hover {
     color: #ffffff;
     margin-bottom: 30px;
     padding-bottom: 15px;
-    border-bottom: 3px double #000000;
+    border-bottom: 3px double #ffffff;
 }
 
 .cat-news .cn-img {
@@ -550,7 +550,7 @@ button.btn:hover {
     z-index: 1;
     transition: .5s;
     color: #ffffff;
-    background: #000000;
+    background: #7c170f;
     border-radius: 4px;
 }
 
@@ -567,7 +567,7 @@ button.btn:hover {
 .cat-news .slick-next:hover,
 .cat-news .slick-next:focus {
     color: #ffffff;
-    background: #FF6F61;
+    background: #7c7c7b;
 }
 
 .cat-news .slick-prev::before,
@@ -707,7 +707,7 @@ button.btn:hover {
     color: #ffffff;
     margin-bottom: 30px;
     padding-bottom: 15px;
-    border-bottom: 3px double #000000;
+    border-bottom: 3px double #ffffff;
 }
 
 .main-news .mn-list ul {
@@ -819,7 +819,7 @@ button.btn:hover {
     color: #ffffff;
     margin-bottom: 30px;
     padding-bottom: 15px;
-    border-bottom: 3px double #000000;
+    border-bottom: 3px double #ffffff;
 }
 
 .single-news .sn-slider .sn-img {
@@ -924,7 +924,7 @@ button.btn:hover {
     color: #ffffff;
     margin-bottom: 30px;
     padding-bottom: 15px;
-    border-bottom: 3px double #000000;
+    border-bottom: 3px double #ffffff;
 }
 
 .sidebar .sidebar-widget .news-list {
