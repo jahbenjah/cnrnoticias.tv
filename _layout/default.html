@@ -33,31 +33,7 @@
 <body>
 
     <!-- Brand Start -->
-    <div class="brand">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-3 col-md-4">
-                    <div class="b-logo">
-                        <a href="index.html">
-                            <img src="img/cnr/logocnr.jpg" alt="Logo">
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-4">
-                    <div class="b-ads">
-                        <a href="https://rosaritocentro.com/">
-                            <img src="img\cnr\BANNER-EU2-min.gif" alt="ads">
-                        </a>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4">
-                    <input type="text" placeholder="Search">
-                    <button><i class="fa fa-search"></i></button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    {{ include brand.html}}
     <!-- Brand End -->
 
         <!-- Nav Bar Start -->
@@ -220,8 +196,75 @@
         </div>
         <!-- Category News End-->
 
-           <!-- Tab News Start-->
-           <div class="tab-news">
+        <!-- Category News Start-->
+        <div class="cat-news">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2>Mundo</h2>
+                        <div class="row cn-slider">
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img\cnr\Gobernadora-MIchigan-Gretchen-Whitmer-081020.jpg" />
+                                    <div class="cn-title">
+                                        <a href="">FBI imputa a seis por presunto complot para secuestrar a la gobernadora de Míchigan</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img\cnr\Donald-Trump-Hospital-Coronavirus-021020-5.jpg" />
+                                    <div class="cn-title">
+                                        <a href="">Insiste equipo de Trump en que participará en el próximo debate si está 'sano'</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/news-350x223-3.jpg" />
+                                    <div class="cn-title">
+                                        <a href="">Lorem ipsum dolor sit</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <h2>Entretenimiento</h2>
+                        <div class="row cn-slider">
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/news-350x223-2.jpg" />
+                                    <div class="cn-title">
+                                        <a href="">Lorem ipsum dolor sit</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/news-350x223-1.jpg" />
+                                    <div class="cn-title">
+                                        <a href="">Lorem ipsum dolor sit</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/news-350x223-3.jpg" />
+                                    <div class="cn-title">
+                                        <a href="">Lorem ipsum dolor sit</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Category News End-->
+
+        <!-- Tab News Start-->
+        <div class="tab-news">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
@@ -314,73 +357,6 @@
         </div>
         <!-- Tab News Start-->
 
-        <!-- Category News Start-->
-        <div class="cat-news">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <h2>Mundo</h2>
-                        <div class="row cn-slider">
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img\cnr\Gobernadora-MIchigan-Gretchen-Whitmer-081020.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">FBI imputa a seis por presunto complot para secuestrar a la gobernadora de Míchigan</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img\cnr\Donald-Trump-Hospital-Coronavirus-021020-5.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Insiste equipo de Trump en que participará en el próximo debate si está 'sano'</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img/news-350x223-3.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <h2>Entretenimiento</h2>
-                        <div class="row cn-slider">
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img/news-350x223-2.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img/news-350x223-1.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img/news-350x223-3.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Category News End-->
-
         <!-- Main News Start-->
         <div class="main-news">
             <div class="container">
@@ -472,7 +448,21 @@
                     </div>
 
                     <div class="col-lg-3">
-                       
+                        <div class="mn-list">
+                            <h2>Leer Mas</h2>
+                            <ul>
+                                <li><a href="">Programa: “Noticiero Estatal”</a></li>
+                                <li><a href="">Programa: “Fuerza Musical” </a></li>
+                                <li><a href="">Programa: “Frente a la Noticia”</a></li>
+                                <li><a href="">Programa: "Charly Stpx"</a></li>
+                                <li><a href="">Programa: "Felipe Prado"</a></li>
+                                <li><a href="">Programa: "Luz de Vida"</a></li>
+                                <li><a href="">Programa: "Enfoque Diverso"</a></li>
+                                <li><a href="">Programa: "Centro de Protección Legal"</a></li>
+                                <li><a href="">Programa: “Convergencia Informativa"</a></li>
+                                <li><a href="">Programa: “Noticiero Estatal por canal 73 y 66.3 ”</a></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -483,98 +473,7 @@
             <img src="img/cnr/popup.jpg" alt="">
         </a>
 
-        <!-- Footer Start -->
-        <div class="footer">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-widget">
-                            <h3 class="title">Ponte en contacto</h3>
-                            <div class="contact-info">
-                                <p><i class="fa fa-map-marker"></i>Blvd. Benito Juárez 300, 22703 Rosarito, B.C. México
-                                </p>
-                                <p><i class="fa fa-envelope"></i>contacto@cnrnoticias.com</p>
-                                <p><i class="fa fa-phone"></i>+52 661 612 4333
-                                </p>
-                                <div class="social">
-                                    <a href=""><i class="fab fa-twitter"></i></a>
-                                    <a href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                    <a href=""><i class="fab fa-instagram"></i></a>
-                                    <a href=""><i class="fab fa-youtube"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-widget">
-                            <h3 class="title">Coberturas</h3>
-                            <ul>
-                                <li><a href="#">Tijuana</a></li>
-                                <li><a href="#">Tecate</a></li>
-                                <li><a href="#">Rosarito</a></li>
-                                <li><a href="#">Ensenada</a></li>
-                                <li><a href="#">Mexicali</a></li>
-                                <li><a href="#">San Diego</a></li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-widget">
-                           
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-widget">
-                            <h3 class="title">Noticias</h3>
-                            <div class="newsletter">
-                                <p>
-                                    Entérate de las ultimas noticias del momento.
-                                <form>
-                                    <input class="form-control" type="email" placeholder="Your email here">
-                                    <button class="btn">Submit</button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer End -->
-
-        <!-- Footer Menu Start -->
-        <div class="footer-menu">
-            <div class="container">
-                <div class="f-menu">
-                    <a href="">Terminos y condiciones</a>
-                    <a href="">Aviso de Privacidad</a>
-                    <a href="">Cookies</a>
-                    <a href="">Bolsa de Trabajo</a>
-                    <a href="publicidad.html">Publicate</a>
-                    <a href="contact.html">Contacto</a>
-                </div>
-            </div>
-        </div>
-        <!-- Footer Menu End -->
-
-        <!-- Footer Bottom Start -->
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 copyright">
-                        <p>Copyright &copy; <a href="https://cnrnoticias.tv/">CNR NOTICIAS </a>. All Rights Reserved</p>
-                    </div>
-
-                    <div class="col-md-6 template-by">
-                        <p>Designed by <a href="https://rosaritocentro.com">Rosarito Centro</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Footer Bottom End -->
+        {% include footer.html %}
 
         <!-- Back to Top -->
         <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
