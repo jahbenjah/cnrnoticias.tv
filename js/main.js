@@ -124,11 +124,5 @@
         ]
     });
 
-
-    $(window).on('load', function () {
-        $('#event').magnificPopup({ type: 'image' });
-        $('#event').click();
-    });
-
 })(jQuery);
 
