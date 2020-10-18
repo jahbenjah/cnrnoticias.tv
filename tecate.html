@@ -2,10 +2,6 @@
 title: Tecate
 layout: region
 description: CNR Tijuana
-image:
-path: /img/cnr/logocnr.jpg
-height: 100
-width: 100
 ---
 
 <div class="col-lg-8">
@@ -14,14 +10,26 @@ width: 100
             <img src="img\cnr\cnrtecate.jpg" />
         </div>
         <div class="sn-content">
-            {% include texto.html %}
+            <h1 class="sn-title">Disfruta de nuestros videos</h1>
+            {% for video in site.data.tecate %}
+            <iframe
+                src="https://www.facebook.com/plugins/video.php?height=314&href={{video.video|uri_escape}}%2F&show_text=true&width=560"
+                width="560" height="314" 
+                style="border:none;overflow:hidden"
+                scrolling="no" 
+                frameborder="0" 
+                allowTransparency="true"
+                allow="encrypted-media"
+                allowFullScreen="true"
+                data-lazy="true"></iframe>
+            {% endfor %} 
         </div>
     </div>
     <div class="sn-related">
-       {% include relacionadas.html %}
+       
     </div>
 </div>
 
 <div class="col-lg-4">
-    {% include sidebar.html %}
+
 </div>

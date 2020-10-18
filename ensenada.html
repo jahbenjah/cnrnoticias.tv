@@ -2,59 +2,33 @@
 title: Ensenada
 layout: region
 description: CNR Tijuana
-image:
-path: /img/cnr/logocnr.jpg
-height: 100
-width: 100
 ---
+
 <div class="col-lg-8">
     <div class="sn-container">
         <div class="sn-img">
             <img src="img/news-825x525.jpg" />
         </div>
         <div class="sn-content">
-            
+            {% for video in site.data.ensenada %}
+            <iframe
+                src="https://www.facebook.com/plugins/video.php?height=314&href={{video.video|uri_escape}}%2F&show_text=true&width=560"
+                width="560" height="314" 
+                style="border:none;overflow:hidden"
+                scrolling="no" 
+                frameborder="0" 
+                allowTransparency="true"
+                allow="encrypted-media"
+                allowFullScreen="true"
+                data-lazy="true"></iframe>
+            {% endfor %}  
         </div>
     </div>
     <div class="sn-related">
-        <h2>Related News</h2>
-        <div class="row sn-slider">
-            <div class="col-md-4">
-                <div class="sn-img">
-                    <img src="img/news-350x223-1.jpg" />
-                    <div class="sn-title">
-                        <a href="">Interdum et fames ac ante</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="sn-img">
-                    <img src="img/news-350x223-2.jpg" />
-                    <div class="sn-title">
-                        <a href="">Interdum et fames ac ante</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="sn-img">
-                    <img src="img/news-350x223-3.jpg" />
-                    <div class="sn-title">
-                        <a href="">Interdum et fames ac ante</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="sn-img">
-                    <img src="img/news-350x223-4.jpg" />
-                    <div class="sn-title">
-                        <a href="">Interdum et fames ac ante</a>
-                    </div>
-                </div>
-            </div>
-        </div>
+       
     </div>
 </div>
 
 <div class="col-lg-4">
-    {% include sidebar.html %}
+
 </div>
