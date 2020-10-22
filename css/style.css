@@ -301,7 +301,11 @@ button.btn:hover {
     margin-top: 0;
     border: 0;
     border-radius: 0;
-    background: #f8f9fa;
+    background: #7c170f;
+}
+
+.nav-bar .dropdown-menu a{
+    color: #ffffff;
 }
 
 @media (min-width: 768px) {
@@ -325,7 +329,7 @@ button.btn:hover {
     .nav-bar,
     .nav-bar .navbar {
         padding: 3px 0;
-        background: #FF6F61 !important;
+        background: #7c170f !important;
     }
     
     .nav-bar a.nav-link {
