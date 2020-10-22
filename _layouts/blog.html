@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es-mx">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    {% seo %}
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{"img/cnr/apple-touch-icon.png"| relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{"img/cnr/favicon-32x32.png"| relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{"img/cnr/favicon-16x16.png"| relative_url }}">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap" rel="stylesheet">
+    <!-- CSS Libraries -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link href="{{"lib/slick/slick.css" | relative_url }}" rel="stylesheet">
+    <link href="{{"lib/slick/slick-theme.css" | relative_url }}" rel="stylesheet">
+    <!-- Template Stylesheet -->
+    <link href="{{ "css/style.css" | relative_url }}" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Brand Start -->
+    {% include brand.html %}
+    <!-- Brand End -->
+    <!-- Nav Bar Start -->
+    {% include navbar.html %}
+    <!-- Nav Bar End -->
+    <!-- Single News Start-->
+    <div class="single-news">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="sn-container">
+                        <div class="sn-content">
+                            <h1 class="sn-title">{{ page.title | escape }}</h1>
+                            {{ content }}
+                        </div>
+                    </div>
+                    <div class="sn-related">
+
+                    </div>
+                </div>
+
+                <div class="col-lg-4">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Single News End-->
+    {% include footer.html %}
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="{{"lib/easing/easing.min.js" | relative_url }}"></script>
+    <script src="{{"lib/slick/slick.min.js" | relative_url }}"></script>
+    <!-- Template Javascript -->
+    <script src="{{"js/main.js" | relative_url }}"></script>
+</body>
+
+</html>
