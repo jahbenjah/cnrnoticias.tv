@@ -1263,7 +1263,7 @@ button.btn:hover {
 }
 
 .footer .social a:hover {
-    background: #FF6F61;
+    background: #7c7c7b;
 }
 
 .footer .social a:hover i {
@@ -1340,7 +1340,7 @@ button.btn:hover {
 }
 
 .footer-menu .f-menu a:hover {
-    color: #FF6F61;
+    color: #7c7c7b;
 }
 
 .footer-menu .f-menu a:last-child {
@@ -1382,7 +1382,7 @@ button.btn:hover {
 
 .footer-bottom .copyright p a:hover,
 .footer-bottom .template-by p a:hover {
-    color: #ffffff;
+    color: #7c7c7b;
 }
 
 @media (max-width: 768.98px) {
