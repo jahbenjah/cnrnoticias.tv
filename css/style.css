@@ -304,6 +304,10 @@ button.btn:hover {
     background: #7c170f;
 }
 
+.nav-bar .dropdown-menu :hover {
+    background: #7c7c7b;
+}
+
 .nav-bar .dropdown-menu a{
     color: #ffffff;
 }
