@@ -12,5 +12,8 @@ deployment:
     - /bin/cp tijuana.html $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R img $DEPLOYPATH
-       
+    - /bin/cp -R _includes $DEPLOYPATH
+    - /bin/cp -R _layouts $DEPLOYPATH  
+    - /bin/cp -R _posts $DEPLOYPATH
+    - /bin/cp -R _data $DEPLOYPATH 
     
