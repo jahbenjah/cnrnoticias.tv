@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home1/cnrnoticias/public_html/demo
+    - export DEPLOYPATH=/home1/cnrnoticias/public_html
     - /bin/cp contact.html $DEPLOYPATH
     - /bin/cp ensenada.html $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
