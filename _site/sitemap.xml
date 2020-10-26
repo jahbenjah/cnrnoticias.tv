@@ -32,6 +32,9 @@
 <loc>https://cnrnoticias.tv/ensenada.html</loc>
 </url>
 <url>
+<loc>https://cnrnoticias.tv/</loc>
+</url>
+<url>
 <loc>https://cnrnoticias.tv/mexicali.html</loc>
 </url>
 <url>
@@ -53,9 +56,5 @@
 <url>
 <loc>https://cnrnoticias.tv/contact.html</loc>
 <lastmod>2020-10-26T09:47:16-06:00</lastmod>
-</url>
-<url>
-<loc>https://cnrnoticias.tv/</loc>
-<lastmod>2020-10-26T12:16:44-06:00</lastmod>
 </url>
 </urlset>
