@@ -1,13 +1,12 @@
 ---
 layout: blog
-title:  "CUENTA LA SSPCM CON NUEVO NÚMERO TELEFÓNICO PARA EL SERVICIO DE "CUENTAHABIENTE SEGURO""
+title:  "Cuenta la SSPCM con nuevo número télefonico para el servicio de cuentahabiente seguro"
 date:   2020-10-21 11:10:48 -0700
 categories: tijuana
 permalink: /:categories/:title:output_ext
 ---
 
-
-Tijuana, Baja California, a 21 de octubre de 2020.- La Secretaría de Seguridad y Protección Ciudadana Municipal (SSPCM), informa a la comunidad que el nuevo número telefónico para solicitar el servicio gratuito del programa "Cuentahabiente Seguro" cambió, ahora deberá solicitarlo a través del número 664 438 21 73.
+**Tijuana, Baja California, a 21 de octubre de 2020**.- La Secretaría de Seguridad y Protección Ciudadana Municipal (SSPCM), informa a la comunidad que el nuevo número telefónico para solicitar el servicio gratuito del programa "Cuentahabiente Seguro" cambió, ahora deberá solicitarlo a través del número 664 438 21 73.
 
 El programa brinda al ciudadano el acompañamiento a través de una unidad de la Policía Municipal, para realizar alguna transacción bancaria, ya sea del domicilio al banco o viceversa.
 
