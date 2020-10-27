@@ -205,7 +205,7 @@
                     <div class="col-md-6">
                         <h2>Tijuana</h2>
                         <div class="row cn-slider">
-                            {% for post in site.posts %}
+                            {% for post in site.categories.tijuana %}
                                 <div class="col-md-6">
                                     <div class="cn-img">
                                         <img src="img\cnr\CR7-08102020-.jpg" />
@@ -220,30 +220,16 @@
                     <div class="col-md-6">
                         <h2>Tecate</h2>
                         <div class="row cn-slider">
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img\cnr\Co-C-Diputados-Fideicomisos-Ajust.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Se hizo de los fideicomisos un fetiche</a>
+                            {% for post in site.categories.tecate %}
+                                <div class="col-md-6">
+                                    <div class="cn-img">
+                                        <img src="img\cnr\Co-C-Diputados-Fideicomisos-Ajust.jpg" />
+                                        <div class="cn-title">
+                                            <a href="{{ post.url }}">{{ post.title }}</a>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img\cnr\Bolsa-Mexicana-de-Valores.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Peso y Bolsa Mexicana ganan por expectativas de acuerdo sobre estímulos en EU</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img/news-350x223-1.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
+                            {% endfor %}
                         </div>
                     </div>
                 </div>
@@ -258,59 +244,31 @@
                     <div class="col-md-6">
                         <h2>Rosarito</h2>
                         <div class="row cn-slider">
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img\cnr\Gobernadora-MIchigan-Gretchen-Whitmer-081020.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">FBI imputa a seis por presunto complot para secuestrar a la gobernadora de Míchigan</a>
+                            {% for post in site.categories.rosarito %}
+                                <div class="col-md-6">
+                                    <div class="cn-img">
+                                        <img src="img\cnr\Co-C-Diputados-Fideicomisos-Ajust.jpg" />
+                                        <div class="cn-title">
+                                            <a href="{{ post.url }}">{{ post.title }}</a>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img\cnr\Donald-Trump-Hospital-Coronavirus-021020-5.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Insiste equipo de Trump en que participará en el próximo debate si está 'sano'</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img/news-350x223-3.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
+                            {% endfor %}
                         </div>
                     </div>
                     <div class="col-md-6">
                         <h2>Mexicali</h2>
                         <div class="row cn-slider">
+                            {% for post in site.categories.mexicali %}
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-2.jpg" />
+                                    <img src="img\cnr\Co-C-Diputados-Fideicomisos-Ajust.jpg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="{{ post.url }}">{{ post.title }}</a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img/news-350x223-1.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="cn-img">
-                                    <img src="img/news-350x223-3.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
+                        {% endfor %}
                         </div>
                     </div>
                 </div>
