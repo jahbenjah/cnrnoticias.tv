@@ -8,7 +8,13 @@ description: >-
 baseurl: "" 
 url: "https://cnrnoticias.tv"
 twitter_username: jekyllrb
+
 # Build settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: img/cnr/mapa.jpg
 theme: minima
 plugins:
   - jekyll-feed
