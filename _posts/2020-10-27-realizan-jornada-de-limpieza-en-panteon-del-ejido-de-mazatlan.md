@@ -4,6 +4,7 @@ title:  "REALIZAN JORNADA DE LIMPIEZA EN EL PANTEÓN DEL EJIDO MAZATLÁN PREVIO 
 date:   2020-10-27 09:00:00 -0000
 categories: rosarito
 permalink: /:categories/:title:output_ext
+image: img/cnr/panteon1.jpg
 ---
 
 
@@ -24,7 +25,7 @@ Otras actividades que realizaron las brigadas de la **SDSU** esta semana, incluy
        <img class="d-block w-100" src="/img/cnr/panteon1.jpg" loading="lazy"  alt="jornada de limpia en el panteón municipal del Ejido Mazatlán">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/img/cnr/panteon12.jpg" loading="lazy"  alt="jornada de limpia en el panteón municipal del Ejido Mazatlán">
+      <img class="d-block w-100" src="/img/cnr/panteon2.jpg" loading="lazy"  alt="jornada de limpia en el panteón municipal del Ejido Mazatlán">
     </div>
      <div class="carousel-item">
       <img class="d-block w-100" src="/img/cnr/panteon3.jpg" loading="lazy"  alt="jornada de limpia en el panteón municipal del Ejido Mazatlán">
