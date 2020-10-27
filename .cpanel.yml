@@ -24,3 +24,4 @@ deployment:
     - /bin/cp _site/sitemap.xml $DEPLOYPATH
     - /bin/cp _site/tecate.html $DEPLOYPATH
     - /bin/cp _site/tijuana.html $DEPLOYPATH
+    - /bin/cp _site/index.html $DEPLOYPATH
