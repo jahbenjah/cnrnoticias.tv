@@ -10,7 +10,7 @@ deployment:
     - /bin/cp -R _site/lib $DEPLOYPATH
     - /bin/cp -R _site/rosarito $DEPLOYPATH
     - /bin/cp -R _site/tijuana $DEPLOYPATH
-    - /bin/cp -R _site/vendor $DEPLOYPATH
+    #- /bin/cp -R _site/vendor $DEPLOYPATH
     - /bin/cp _site/404.html $DEPLOYPATH
     - /bin/cp _site/cobertura.html $DEPLOYPATH
     - /bin/cp _site/contact.html $DEPLOYPATH
