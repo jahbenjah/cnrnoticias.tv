@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "REALIZAN JORNADA DE LIMPIEZA EN EL PANTEÓN DEL EJIDO MAZATLÁN PREVIO AL DÍA DE MUERTOS"
+title:  "Realizan jornada de limpieza en el panteón Ejido Mazatlán"
 date:   2020-10-27 09:00:00 -0000
 categories: rosarito
 permalink: /:categories/:title:output_ext

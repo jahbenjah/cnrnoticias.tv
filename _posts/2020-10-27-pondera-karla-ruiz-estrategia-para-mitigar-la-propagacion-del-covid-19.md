@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "Pondera Karla Ruiz estrategia para mitigar la propagación del COVID-19"
+title:  "Karla Ruiz y su estrategia para mitigar la propagación COVID-19"
 date:   2020-10-27 09:00:00 -0000
 categories: tijuana
 permalink: /:categories/:title:output_ext

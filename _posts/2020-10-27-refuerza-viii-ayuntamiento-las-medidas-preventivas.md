@@ -1,14 +1,14 @@
 ---
 layout: blog
-title:  "Refuerza VIII Ayuntamiento las medidas preventivas para el ingreso a la casa municipal en prevención de contagios"
+title:  "Refuerza VIII Ayuntamiento medidas preventivas para ingreso a la casa municipal"
 date:   2020-10-27 09:00:00 -0000
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: img/cnr/prevencion1.jpg
 ---
 
-* Agradece Araceli Brown a la ciudadanía por la atención a las recomendaciones, ya que somos el municipio con menos casos.
-* Se reitera a la ciudadanía el llamado a no bajar la guardia, para evitar rebrotes.
+*Agradece Araceli Brown a la ciudadanía por la atención a las recomendaciones, ya que somos el municipio con menos casos.*
+*Se reitera a la ciudadanía el llamado a no bajar la guardia, para evitar rebrotes.*
 
 **Playas de Rosarito, Baja California; martes 27 de octubre de 2020.-** Con el objetivo prioritario de prevenir contagios por *COVID-19*, por instrucciones de la Presidente Municipal Araceli Brown Figueredo, el VIII Ayuntamiento de Playas de Rosarito realizó el reforzamiento de las medidas preventivas para garantizar la seguridad de usuarios y trabajadores en el ingreso a las oficinas públicas en la Casa Municipal.
 
