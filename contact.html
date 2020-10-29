@@ -153,21 +153,26 @@
                                 Haz llegar tu noticia. CNR siempre allí.
                             </p>
                         <p>Llena este formulario con todo lo relevante.</p></div>
-                        <form>
+                        <form action="https://formspree.io/f/xzbkgdvq" method="post" class="php-email-form">
                             <div class="form-row">
                                 <div class="form-group col-md-6">
-                                    <form action="https://formspree.io/f/xzbkgdvq" method="POST"></form>
-                                    <input type="text" class="form-control" placeholder="Nombre" />
+                                    <input type="text" id="inputname" name="inputname" class="form-control" placeholder="Nombre" />
                                 </div>
                                 <div class="form-group col-md-6">
-                                    <input type="email" class="form-control" placeholder="Correo Electrónico" />
+                                    <input type="email" class="form-control" id="inputemail" name="inputemail" placeholder="Correo" />
                                 </div>
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="Asusto" />
+                                <input type="text" class="form-control" id="inputphone" name="inputphone" placeholder="Teléfono" />
                             </div>
                             <div class="form-group">
-                                <textarea class="form-control" rows="5" placeholder="Mensaje"></textarea>
+                                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Mensaje"></textarea>
+                                <div class="validate"></div>
+                            </div>
+                            <div id="statusForm" class="mb-3">
+                              <div class="loading">Loading</div>
+                              <div class="error-message"></div>
+                              <div class="sent-message">Your message has been sent. Thank you!</div>
                             </div>
                             <div><button class="btn" type="submit">Enviar Mensaje</button></div>
                         </form>
