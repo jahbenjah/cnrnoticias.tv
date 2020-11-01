@@ -22,7 +22,7 @@ En este sentido, el Gobierno de la Ciudad, hace un llamado a la ciudadanía a cu
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/playasdetijuana-2.jpg" loading="lazy"  alt="Playas de Tijuana">
+       <img class="d-block w-100" src="/img/cnr/playasdetiuana-2.jpg" loading="lazy"  alt="Playas de Tijuana">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/img/cnr/playasdetijuana-4.jpg" loading="lazy"  alt="Rebrote COVID-19">

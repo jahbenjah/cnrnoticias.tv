@@ -32,10 +32,10 @@ La actual administración continúa ejecutando obras en las distintas colonias d
       <img class="d-block w-100" src="/img/cnr/suspende-ayuntamiento-transito-vehicular-3.jpg" loading="lazy"  alt="Ayuntamiento">
     </div>
      <div class="carousel-item">
-      <img class="d-block w-100" src="/img/cnr/suspende-ayuntamiento-transito-vehicular-4.jpg" loading="lazy"  alt="Calle Valle Imperial">
+      <img class="d-block w-100" src="/img/cnr/suspende-ayuntamiento-transito-vehicular-5.jpg" loading="lazy"  alt="Calle Valle Imperial">
     </div>
       <div class="carousel-item">
-      <img class="d-block w-100" src="/img/cnr/suspende-ayuntamiento-transito-vehicular-5.jpg" loading="lazy"  alt="Colonia Altiplano">
+      <img class="d-block w-100" src="/img/cnr/suspende-ayuntamiento-transito-vehicular-6.jpg" loading="lazy"  alt="Colonia Altiplano">
     </div>
   </div>
 </div>
