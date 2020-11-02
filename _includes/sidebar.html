@@ -1,5 +1,5 @@
 <div class="sidebar">
-    <div class="sidebar-widget">
+    <!-- <div class="sidebar-widget">
         <h2 class="sw-title">In This Category</h2>
         <div class="news-list">
             <div class="nl-item">
@@ -11,7 +11,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     <div class="sidebar-widget">
         <div class="image">
@@ -41,54 +41,64 @@
 
             <div class="tab-content">
                 <div id="tijuana" class="container tab-pane active">
+                    {% for post in site.categories.tijuana %}
                     <div class="tn-news">
                         <div class="tn-img">
-                            <img src="img/news-350x223-1.jpg" />
+                            <img src="{{ post.image }}" />
                         </div>
                         <div class="tn-title">
-                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                            <a href="{{ post.url }}">{{ post.title }}</a>
                         </div>
                     </div>
+                    {% endfor %}
                 </div>
                 <div id="rosarito" class="container tab-pane fade">
+                    {% for post in site.categories.rosarito %}
                     <div class="tn-news">
                         <div class="tn-img">
-                            <img src="img/news-350x223-4.jpg" />
+                            <img src="{{ post.image }}" />
                         </div>
                         <div class="tn-title">
-                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                            <a href="{{ post.url }}">{{ post.title }}</a>
                         </div>
-                    </div>                 
+                    </div>
+                    {% endfor %}               
                 </div>
                 <div id="ensenada" class="container tab-pane fade">
+                    {% for post in site.categories.ensenada %}
                     <div class="tn-news">
                         <div class="tn-img">
-                            <img src="img/news-350x223-3.jpg" />
+                            <img src="{{ post.image }}" />
                         </div>
                         <div class="tn-title">
-                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                            <a href="{{ post.url }}">{{ post.title }}</a>
                         </div>
                     </div>
+                    {% endfor %}
                 </div>
                 <div id="tecate" class="container tab-pane fade">
+                    {% for post in site.categories.tecate %}
                     <div class="tn-news">
                         <div class="tn-img">
-                            <img src="img/news-350x223-3.jpg" />
+                            <img src="{{ post.image }}" />
                         </div>
                         <div class="tn-title">
-                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                            <a href="{{ post.url }}">{{ post.title }}</a>
                         </div>
                     </div>
+                    {% endfor %}
                 </div>
                 <div id="mexicali" class="container tab-pane fade">
+                    {% for post in site.categories.mexicali %}
                     <div class="tn-news">
                         <div class="tn-img">
-                            <img src="img/news-350x223-3.jpg" />
+                            <img src="{{ post.image }}" />
                         </div>
                         <div class="tn-title">
-                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                            <a href="{{ post.url }}">{{ post.title }}</a>
                         </div>
                     </div>
+                    {% endfor %}
                 </div>
             </div>
         </div>
@@ -96,11 +106,11 @@
 
     <div class="sidebar-widget">
         <div class="image">
-            <a href="#"><img src="{{ "img/logos/CNR-18-ANIVERSARIO.jpeg" | relative_url }}" alt="Image"></a>
+            <a href="#"><img src="{{ "img/logos/logocnr.jpg" | relative_url }}" alt="Image"></a>
         </div>
     </div>
 
-    <div class="sidebar-widget">
+    <!-- <div class="sidebar-widget">
         <h2 class="sw-title">News Category</h2>
         <div class="category">
             <ul>
@@ -113,22 +123,22 @@
                 <li><a href="">Trades</a><span>(32)</span></li>
             </ul>
         </div>
-    </div>
+    </div> -->
 
     <div class="sidebar-widget">
         <div class="image">
-            <a href="https://htmlcodex.com"><img src="{{ "img/logos/tvestatal.jpg" | relative_url }}" alt="Image"></a>
+            <a href="#"><img src="{{ "img/logos/73estatal.png" | relative_url }}" alt="Image"></a>
         </div>
     </div>
 
     <div class="sidebar-widget">
         <h2 class="sw-title">Regiones</h2>
         <div class="tags">
-            <a href="{{ "img/logos/tvestatal.jpg" | relative_url }}">Tijuana</a>
-            <a href="{{ "img/logos/tvestatal.jpg" | relative_url }}">Tecate</a>
-            <a href="{{ "img/logos/tvestatal.jpg" | relative_url }}">Rosarito</a>
-            <a href="{{ "img/logos/tvestatal.jpg" | relative_url }}">Ensenada</a>
-            <a href="{{ "img/logos/tvestatal.jpg" | relative_url }}">Mexicali</a>
+            <a href="{{ "rosarito" | relative_url }}">Tijuana</a>
+            <a href="{{ "tecate" | relative_url }}">Tecate</a>
+            <a href="{{ "rosarito" | relative_url }}">Rosarito</a>
+            <a href="{{ "ensenada" | relative_url }}">Ensenada</a>
+            <a href="{{ "mexicali" | relative_url }}">Mexicali</a>
         </div>
     </div>
 </div>

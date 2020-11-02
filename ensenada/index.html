@@ -13,18 +13,28 @@ description: CNR Tijuana
             </div>
         </div>
         <div class="sn-content">
-            {% for video in site.data.ensenada %}
-            <iframe
-                src="https://www.facebook.com/plugins/video.php?height=314&href={{video.video|uri_escape}}%2F&show_text=true&width=560"
-                width="560" height="314" 
-                style="border:none;overflow:hidden"
-                scrolling="no" 
-                frameborder="0" 
-                allowTransparency="true"
-                allow="encrypted-media"
-                allowFullScreen="true"
-                data-lazy="true"></iframe>
-            {% endfor %}  
+            <!-- Main News Start-->
+            <div class="main-news">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="row">
+                            {% for post in site.categories.ensenada %}
+                                <div class="col-md-4">
+                                    <div class="mn-img">
+                                        <img src="{{ post.image }}"/>
+                                        <div class="mn-title">
+                                            <a href="{{ post.url }}">{{ post.title }}</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Main News End-->
         </div>
     </div>
     <div class="sn-related">
