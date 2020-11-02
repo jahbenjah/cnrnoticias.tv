@@ -14,7 +14,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: img/cnr/mapa.jpg
+      image: /img/cnr/mapa.jpg
 theme: minima
 plugins:
   - jekyll-feed

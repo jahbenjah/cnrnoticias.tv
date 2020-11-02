@@ -4,7 +4,7 @@ title:  "Inicia construcción de dormitorios en preparatoria militarizada"
 date:   2020-10-27 20:50:00 -0000
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: img/cnr/dormitorios.jpg
+image: /img/cnr/dormitorios.jpg
 ---
 
 **Tijuana, Baja California, a 27 de octubre de 2020**.- De manera simbólica, este martes 27 de octubre inició la construcción de dormitorios para estudiantes en la Preparatoria Militarizada General Enrique Bordes Mangel, en Tijuana. 
