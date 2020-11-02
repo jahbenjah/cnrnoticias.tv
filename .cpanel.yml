@@ -13,7 +13,6 @@ deployment:
     - /bin/cp -R _site/mexicali $DEPLOYPATH
     - /bin/cp -R _site/san-diego $DEPLOYPATH
     - /bin/cp -R _site/tecate $DEPLOYPATH
-    #- /bin/cp -R _site/vendor $DEPLOYPATH
     - /bin/cp _site/404.html $DEPLOYPATH
     - /bin/cp _site/cobertura.html $DEPLOYPATH
     - /bin/cp _site/contact.html $DEPLOYPATH
