@@ -4,7 +4,7 @@ title:  "Karla Ruiz y su estrategia para mitigar la propagación COVID-19"
 date:   2020-10-27 09:00:00 -0000
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: img/cnr/cumbrebinacional1.jpg
+image: /img/cnr/cumbrebinacional1.jpg
 ---
  • La primer edil subrayó en la buena relación que existe con autoridades de San Diego, muestra de ello, fue la donación de mil caretas para personal de salud y tres ventiladores médicos
 

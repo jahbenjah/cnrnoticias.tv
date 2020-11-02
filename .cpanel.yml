@@ -10,17 +10,13 @@ deployment:
     - /bin/cp -R _site/lib $DEPLOYPATH
     - /bin/cp -R _site/rosarito $DEPLOYPATH
     - /bin/cp -R _site/tijuana $DEPLOYPATH
-    #- /bin/cp -R _site/vendor $DEPLOYPATH
+    - /bin/cp -R _site/mexicali $DEPLOYPATH
+    - /bin/cp -R _site/san-diego $DEPLOYPATH
+    - /bin/cp -R _site/tecate $DEPLOYPATH
     - /bin/cp _site/404.html $DEPLOYPATH
     - /bin/cp _site/cobertura.html $DEPLOYPATH
     - /bin/cp _site/contact.html $DEPLOYPATH
-    - /bin/cp _site/ensenada.html $DEPLOYPATH
     - /bin/cp _site/feed.xml $DEPLOYPATH
     - /bin/cp _site/index.html $DEPLOYPATH
-    - /bin/cp _site/mexicali.html $DEPLOYPATH
     - /bin/cp _site/robots.txt $DEPLOYPATH
-    - /bin/cp _site/rosarito.html $DEPLOYPATH
-    - /bin/cp _site/san-diego.html $DEPLOYPATH
     - /bin/cp _site/sitemap.xml $DEPLOYPATH
-    - /bin/cp _site/tecate.html $DEPLOYPATH
-    - /bin/cp _site/tijuana.html $DEPLOYPATH

@@ -4,7 +4,7 @@ title:  "Alcaldesa firma convenio con jurisdicción sanitaria."
 date:   2020-10-29 17:30  
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: img/cnr/alcaldesa-de-tijuana-4.jpg
+image: /img/cnr/alcaldesa-de-tijuana-4.jpg
 autor: 
 ---
 

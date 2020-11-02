@@ -4,7 +4,7 @@ title:  "Se lleva a cabo desalojo en Plaza San Fernando."
 date:   2020-10-30 10:27  
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: img/cnr/desalojo.jpg
+image: /img/cnr/desalojo.jpg
 autor: 
 ---
 

@@ -4,7 +4,7 @@ title:  "Karla Ruiz entrega estímulos económicos a madres solteras."
 date:   2020-10-29 14:42  
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: img/cnr/karla-ruiz.jpg
+image: /img/cnr/karla-ruiz.jpg
 autor: 
 ---
 

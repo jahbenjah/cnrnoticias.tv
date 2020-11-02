@@ -4,7 +4,7 @@ title:  "Ayuntamiento continuará con acceso restringido a Playas por rebrote CO
 date:   2020-10-30 10:25  
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: img/cnr/playasdetijuana-4.jpg
+image: /img/cnr/playasdetijuana-4.jpg
 autor: 
 ---
 

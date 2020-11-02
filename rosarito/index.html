@@ -1,0 +1,47 @@
+---
+title: Rosarito
+layout: region
+description: CNR Tijuana
+---
+<div class="col-lg-8">
+    <div class="sn-container">
+        <div class="sn-img">
+            <div class="video">
+                <div class="embed-responsive embed-responsive"></div>
+                <iframe src="https://iframe.dacast.com/live/1371de4f-465a-1003-2180-6c24428b2e3f/575150c6-a908-4e22-9388-e83b9fb6641c" width="100%" height="355" frameborder="0" scrolling="no" allow="autoplay" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>             
+            </div>
+        </div>
+        <div class="sn-content">
+           <!-- Main News Start-->
+           <div class="main-news">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="row">
+                        {% for post in site.categories.rosarito %}
+                            <div class="col-md-4">
+                                <div class="mn-img">
+                                    <img src="{{ post.image }}"/>
+                                    <div class="mn-title">
+                                        <a href="{{ post.url }}">{{ post.title }}</a>
+                                    </div>
+                                </div>
+                            </div>
+                        {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Main News End-->
+           
+        </div>
+    </div>
+    <div class="sn-related">
+       
+    </div>
+</div>
+
+<div class="col-lg-4">
+    {% include sidebar.html %}
+</div>

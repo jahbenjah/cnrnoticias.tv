@@ -6,23 +6,22 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     {% seo %}
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="img/cnricon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="img/cnricon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="img/cnricon/favicon-16x16.png">
-    <link rel="manifest" href="img/cnricon/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{"img/cnricon/apple-touch-icon.png"| relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{"img/cnricon/favicon-32x32.png"| relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{"img/cnricon/favicon-16x16.png"| relative_url }}">
+    <link rel="manifest" href="{{ "img/cnricon/webmanifest.json" | relative_url }}">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap" rel="stylesheet">
-    <link href="lib/magnific-popup/magnific-popup.css" rel="stylesheet">
-    <!-- CSS Libraries -->
+    <link href="{{"lib/magnific-popup/magnific-popup.css" | relative_url }}" rel="stylesheet">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-    <link href="lib/slick/slick.css" rel="stylesheet">
-    <link href="lib/slick/slick-theme.css" rel="stylesheet">
+    <link href="{{"lib/slick/slick.css" | relative_url }}" rel="stylesheet">
+    <link href="{{"lib/slick/slick-theme.css" | relative_url }}" rel="stylesheet">
     <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="{{ "css/style.css" | relative_url }}" rel="stylesheet">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-181241474-1"></script>
     <script>
@@ -72,9 +71,9 @@
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/slick/slick.min.js"></script>
+    <script src="{{"lib/easing/easing.min.js" | relative_url }}"></script>
+    <script src="{{"lib/slick/slick.min.js" | relative_url }}"></script>
     <!-- Template Javascript -->
-    <script src="js/main.js"></script>
+    <script src="{{"js/main.js" | relative_url }}"></script>
 </body>
 </html>
