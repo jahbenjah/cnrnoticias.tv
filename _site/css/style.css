@@ -16,7 +16,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #000000;
+    color: #ffffff;
     outline: none;
     text-decoration: none;
 }
@@ -1353,7 +1353,7 @@ button.btn:hover {
 }
 
 .footer .newsletter .btn:hover {
-    background: #FF6F61;
+    background: #7c7c7b;
 }
 
 .footer .newsletter input:focus,
