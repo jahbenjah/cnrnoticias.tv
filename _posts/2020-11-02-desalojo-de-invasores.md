@@ -4,7 +4,7 @@ title:  “Desalojo de Invasores"
 date:   2020-11-02 08:00:00 -0000  
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: img/cnr/
+image: /img/cnr/
 autor: 
 ---
 
