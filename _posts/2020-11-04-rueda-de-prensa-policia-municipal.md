@@ -13,3 +13,11 @@ autor:
 
 
 En Tecate se llevó a cabo una rueda de como tema principal la situación del oficial de policía municipal detenido por supuesta obstrucción de justicia, trasladando a un detenido en zona centro, siendo el oficial adscrito a la zona rural y sin haberse declarado en estado activo ante el C4.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/rueda-de-prensa.jpg" loading="lazy"  alt="Rued de Prensa">
+    </div>
+  </div>
+</div>

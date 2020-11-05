@@ -17,7 +17,7 @@ El acceso a la caseta Tecate - Mexicali quedó cerrado tras presentarse un incen
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/incendio-en-carretera-tecate.jpg" loading="lazy"  alt="Desalojo de Invasores">
+       <img class="d-block w-100" src="/img/cnr/incendio-en-carretera-tecate.jpg" loading="lazy"  alt="Incendio en Carretera Tecate-Mexicali">
     </div>
   </div>
 </div>
