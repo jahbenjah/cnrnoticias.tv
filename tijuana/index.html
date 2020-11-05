@@ -9,10 +9,20 @@ description: CNR Tijuana
         <div class="sn-img">
             <div class="video">
                 <div class="embed-responsive embed-responsive"></div>
-                <iframe
-                    src="https://iframe.dacast.com/live/1371de4f-465a-1003-2180-6c24428b2e3f/575150c6-a908-4e22-9388-e83b9fb6641c"
-                    width="100%" height="355" frameborder="0" scrolling="no" allow="autoplay" allowfullscreen
-                    webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+                <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script>
+
+                <div id="playerElement" style="width:100%; height:355px; padding:0;"></div>
+                
+                <script type="text/javascript">
+                WowzaPlayer.create("playerElement",{
+                "license":"PLAY1-eBebJ-RkdZy-N66R4-kKJan-UdUwW",
+                "title":"",
+                "description":"",
+                "sourceURL":"http%3A%2F%2FMauricioAlcala.flashmediacast.com%3A1935%2FMauricioAlcala%2Flivestream%2Fplaylist.m3u8",
+                "autoPlay":false,
+                "volume":"75",
+                "mute":false,
+                "loop":false,"audioOnly":false,"uiShowQuickRewind":true,"uiQuickRewindSeconds":"30"});</script>
             </div>
         </div>
         <div class="sn-content">
