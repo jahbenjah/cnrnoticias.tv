@@ -2,7 +2,7 @@
 layout: blog
 title:  “Persona Electrocutada"
 date:   2020-11-04  
-categories: Tecate
+categories: tecate
 permalink: /:categories/:title:output_ext
 image: img/cnr/persona-electrocutada.jpg
 autor: 

@@ -2,7 +2,7 @@
 layout: blog
 title:  “Caseta tecate-mexicali cerrada por incendio"
 date:   2020-11-04  
-categories: Tecate
+categories: tecate
 permalink: /:categories/:title:output_ext
 image: img/cnr/incendio-en-carretera-tecate.jpg
 autor: 

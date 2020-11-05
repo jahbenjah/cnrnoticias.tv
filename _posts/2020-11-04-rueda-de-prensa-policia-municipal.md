@@ -2,7 +2,7 @@
 layout: blog
 title:  “Rueda de Prensa Policía Municipal"
 date:   2020-11-04  
-categories: Tecate
+categories: tecate
 permalink: /:categories/:title:output_ext
 image: img/cnr/rueda-de-prensa.jpg
 autor: 
