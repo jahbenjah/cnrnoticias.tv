@@ -4,7 +4,7 @@ title:  "Matan en su casa a un individuo masculino."
 date:   2020-10-30 2:30 
 categories: tecate
 permalink: /:categories/:title:output_ext
-image: img/cnr/matan-a-hombre.jpg
+image: /img/cnr/matan-a-hombre.jpg
 autor: 
 ---
 

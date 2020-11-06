@@ -4,7 +4,7 @@ title:  “Guardia estatal en Tecate"
 date:   2020-11-03  
 categories: tecate
 permalink: /:categories/:title:output_ext
-image: img/cnr/guardia-estatal-en-tecate.jpg
+image: /img/cnr/guardia-estatal-en-tecate.jpg
 autor: 
 ---
 

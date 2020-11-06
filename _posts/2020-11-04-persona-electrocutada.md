@@ -4,7 +4,7 @@ title:  “Persona Electrocutada"
 date:   2020-11-04  
 categories: tecate
 permalink: /:categories/:title:output_ext
-image: img/cnr/persona-electrocutada.jpg
+image: /img/cnr/persona-electrocutada.jpg
 autor: 
 ---
 
