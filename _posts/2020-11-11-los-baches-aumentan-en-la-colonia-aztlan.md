@@ -4,7 +4,7 @@ title:  “LOS BACHES AUMENTAN EN LA COLONIA AZTLÁN”
 date:   2020-11-11  
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: img/cnr/baches.jpg
+image: /img/cnr/baches.jpg
 autor: 
 ---
 
