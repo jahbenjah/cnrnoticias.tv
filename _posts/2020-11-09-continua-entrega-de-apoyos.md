@@ -2,7 +2,7 @@
 layout: blog
 title:  “Continua entrega de apoyos"
 date:   2020-11-09  
-categories: tecate
+categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/entrega-de-apoyo.jpg
 autor: 
