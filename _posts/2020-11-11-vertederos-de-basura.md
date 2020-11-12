@@ -4,7 +4,7 @@ title:  “VERTEDEROS DE BASURA”
 date:   2020-11-11  
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: img/cnr/basura.jpg
+image: /img/cnr/basura.jpg
 autor: 
 ---
 

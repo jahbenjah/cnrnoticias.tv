@@ -4,7 +4,7 @@ title:  “Reparacion de semaforos"
 date:   2020-11-09  
 categories: tecate
 permalink: /:categories/:title:output_ext
-image: img/cnr/reparacion-de-semaforos.jpg
+image: /img/cnr/reparacion-de-semaforos.jpg
 autor: 
 ---
 

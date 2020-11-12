@@ -4,7 +4,7 @@ title:  “Dir. Hospital General”
 date:   2020-11-10  
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: img/cnr/director-hospital-general-de-tijuana.jpg
+image: /img/cnr/director-hospital-general-de-tijuana.jpg
 autor: 
 ---
 

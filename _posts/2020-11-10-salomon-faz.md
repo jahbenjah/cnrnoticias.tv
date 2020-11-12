@@ -4,7 +4,7 @@ title:  “Salomon Faz”
 date:   2020-11-10  
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: img/cnr/salomon-faz.jpg
+image: /img/cnr/salomon-faz.jpg
 autor: 
 ---
 

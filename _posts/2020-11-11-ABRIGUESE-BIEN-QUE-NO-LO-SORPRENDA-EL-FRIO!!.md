@@ -4,7 +4,7 @@ title:  “ABRÍGUESE BIEN, QUE NO LO SORPRENDA EL FRÍO!!”
 date:   2020-11-11  
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: img/cnr/bajas-temperaturas.jpg
+image: /img/cnr/bajas-temperaturas.jpg
 autor: 
 ---
 

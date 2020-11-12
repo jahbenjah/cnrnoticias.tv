@@ -4,7 +4,7 @@ title:  “DIECIOCHO JÓVENES SE GRADÚAN DEL PROGRAMA PREVENCIÓN AL VOLANTE”
 date:   2020-11-11  
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: img/cnr/dieciocho.jpg
+image: /img/cnr/dieciocho.jpg
 autor: 
 ---
 

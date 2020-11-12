@@ -4,7 +4,7 @@ title:  “Manifestación CESPT”
 date:   2020-11-10  
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: img/cnr/manifestacion-CESPT.jpg
+image: /img/cnr/manifestacion-CESPT.jpg
 autor: 
 ---
 

@@ -4,7 +4,7 @@ title:  “Son detenidos elementos de la SIEDO”
 date:   2020-11-11  
 categories: mexicali
 permalink: /:categories/:title:output_ext
-image: img/cnr/siedo.jpg
+image: /img/cnr/siedo.jpg
 autor: 
 ---
 

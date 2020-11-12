@@ -4,7 +4,7 @@ title:  “Alcaldesa Marina del Pilar”
 date:   2020-11-11  
 categories: mexicali
 permalink: /:categories/:title:output_ext
-image: img/cnr/marina-del-pilar.jpg
+image: /img/cnr/marina-del-pilar.jpg
 autor: 
 ---
 

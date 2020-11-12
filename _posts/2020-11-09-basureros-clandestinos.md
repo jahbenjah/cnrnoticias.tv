@@ -4,7 +4,7 @@ title:  “Basureros Clandestinos”
 date:   2020-11-09  
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: img/cnr/basureros-clandestinos.jpg
+image: /img/cnr/basureros-clandestinos.jpg
 autor: 
 ---
 

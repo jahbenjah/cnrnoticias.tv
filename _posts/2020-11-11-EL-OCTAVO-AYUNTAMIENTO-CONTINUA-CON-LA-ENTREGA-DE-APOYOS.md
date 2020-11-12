@@ -4,7 +4,7 @@ title:  “EL OCTAVO AYUNTAMIENTO CONTINÚA CON LA ENTREGA DE APOYOS SOCIALES”
 date:   2020-11-11  
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: img/cnr/apoyos-sociales.jpg
+image: /img/cnr/apoyos-sociales.jpg
 autor: 
 ---
 
