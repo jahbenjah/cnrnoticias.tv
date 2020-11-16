@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “VERTEDEROS DE BASURA”
+title:  "Vertederos de Basura"
 date:   2020-11-11  
 categories: rosarito
 permalink: /:categories/:title:output_ext

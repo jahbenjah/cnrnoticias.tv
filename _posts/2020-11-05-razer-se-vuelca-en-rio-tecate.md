@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Razer se vuelca en Río Tecate"
+title:  "Razer se vuelca en Río Tecate"
 date:   2020-11-05  
 categories: tecate
 permalink: /:categories/:title:output_ext

@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Gobernador entrega ayuda”
+title:  "Gobernador entrega ayuda"
 date:   2020-11-11  
 categories: tijuana
 permalink: /:categories/:title:output_ext

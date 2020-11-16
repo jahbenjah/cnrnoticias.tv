@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “DIECIOCHO JÓVENES SE GRADÚAN DEL PROGRAMA PREVENCIÓN AL VOLANTE”
+title:  "Dieciocho jóvenes de gradúan del programa prevención al volante"
 date:   2020-11-11  
 categories: rosarito
 permalink: /:categories/:title:output_ext
@@ -9,7 +9,7 @@ autor:
 ---
 
 
-**Rosarito, Baja California;  Miércoles 11 de noviembre del 2020.-** DIECIOCHO JÓVENES SE GRADÚAN DEL PROGRAMA PREVENCIÓN AL VOLANTE
+**Rosarito, Baja California;  Miércoles 11 de noviembre del 2020.-** Dieciocho jóvenes de gradúan del programa prevención al volante
 
 
 El día de hoy Miércoles 11 de noviembre del 2020, dieciocho jóvenes se graduaron del programa prevención al volante, dicho programa se implementó para educar a los jóvenes respecto al manejo del automóvil en las vías, del municipio de Rosarito, crear conciencia entre los jóvenes es menester Ya que ellos son la nueva generación y deben estar cada día más preparados para los retos que la vida les imponga también, se les enseñó acerca de lo que se establece en el reglamento de tránsito para enriquecer más su cultura y educación Vial.

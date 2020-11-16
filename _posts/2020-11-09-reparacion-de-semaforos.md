@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Reparacion de semaforos"
+title:  "Reparacion de semaforos"
 date:   2020-11-09  
 categories: rosarito
 permalink: /:categories/:title:output_ext

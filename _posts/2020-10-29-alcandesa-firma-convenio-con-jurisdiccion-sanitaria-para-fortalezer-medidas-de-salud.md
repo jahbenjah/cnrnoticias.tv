@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "Alcaldesa firma convenio con jurisdicción sanitaria."
+title:  "Alcaldesa firma convenio con jurisdicción sanitaria"
 date:   2020-10-29 17:30  
 categories: tijuana
 permalink: /:categories/:title:output_ext

@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Continua entrega de apoyos"
+title:  "Continua entrega de apoyos"
 date:   2020-11-09  
 categories: rosarito
 permalink: /:categories/:title:output_ext

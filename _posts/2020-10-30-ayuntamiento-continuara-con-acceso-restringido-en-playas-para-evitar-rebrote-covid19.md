@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "Ayuntamiento continuará con acceso restringido a Playas por rebrote COVID-19 ."
+title:  "Ayuntamiento continuará con acceso restringido a Playas por rebrote COVID-19"
 date:   2020-10-30 10:25  
 categories: tijuana
 permalink: /:categories/:title:output_ext

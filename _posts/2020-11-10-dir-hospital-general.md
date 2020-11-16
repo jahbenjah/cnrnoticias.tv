@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Dir. Hospital General”
+title:  "Dir. Hospital General"
 date:   2020-11-10  
 categories: tijuana
 permalink: /:categories/:title:output_ext

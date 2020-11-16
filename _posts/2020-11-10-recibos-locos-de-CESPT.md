@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “ Recibos locos de CESPT”
+title:  "Recibos locos de CESPT"
 date:   2020-11-10  
 categories: tijuana
 permalink: /:categories/:title:output_ext

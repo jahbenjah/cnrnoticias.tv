@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Balean a personal de SEDENA"
+title:  "Balean a personal de SEDENA"
 date:   2020-11-05  
 categories: tecate
 permalink: /:categories/:title:output_ext

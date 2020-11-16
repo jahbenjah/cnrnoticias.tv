@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Medidas rigurosas ante COVID-19”
+title:  "Medidas rigurosas ante COVID-19"
 date:   2020-11-11  
 categories: tijuana
 permalink: /:categories/:title:output_ext

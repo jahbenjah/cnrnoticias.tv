@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Residentes afectados en la Sánchez Taboada”
+title:  "Residentes afectados en la Sánchez Taboada"
 date:   2020-11-11  
 categories: tijuana
 permalink: /:categories/:title:output_ext

@@ -8,6 +8,8 @@ image: /img/cnr/dormitorios.jpg
 ---
 
 **Tijuana, Baja California, a 27 de octubre de 2020**.- De manera simbólica, este martes 27 de octubre inició la construcción de dormitorios para estudiantes en la Preparatoria Militarizada General Enrique Bordes Mangel, en Tijuana. 
+
+
 Las primeras paladas fueron del Fiscal General del Estado, Juan Guillermo Ruiz Hernández, acompañado por la Secretaria de Infraestructura, Desarrollo Urbano y Reordenación Territorial, Karen Postlethwaite Montijo, y el empresario Fernando Beltrán, presidente del Patronato de la Academia Militarizada.
 Ahí el licenciado Juan Guillermo Ruiz Hernández, estableció que de la Academia Militarizada egresarán jóvenes con valores para integrarse a la Secretaría de la Defensa Nacional (SEDENA), Secretaría de Marina Armada de México (SEMAR), y corporaciones policiales de Baja California.
 Ahí la arquitecta Karen Postlethwaite Montijo, analizó el diseño de la construcción que deberá estar finalizada en diciembre próximo, luego la titular de la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial, recorrió las instalaciones del plantel de bachillerato militarizado, dando su visto bueno y elogiando la obra.

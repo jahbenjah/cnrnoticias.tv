@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “ABRÍGUESE BIEN, QUE NO LO SORPRENDA EL FRÍO!!”
+title:  "Abríguese bien, que no lo sorprenda el frío!!"
 date:   2020-11-11  
 categories: rosarito
 permalink: /:categories/:title:output_ext

@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “LOS BACHES AUMENTAN EN LA COLONIA AZTLÁN”
+title:  "Los baches aumentan en la colonia Aztlán"
 date:   2020-11-11  
 categories: rosarito
 permalink: /:categories/:title:output_ext

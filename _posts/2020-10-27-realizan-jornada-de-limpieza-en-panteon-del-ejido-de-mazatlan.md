@@ -8,7 +8,9 @@ image: /img/cnr/panteon1.jpg
 ---
 
 
-**Playas de Rosarito, Baja California;** martes 27 de octubre de 2020.-* Personal de la Secretaría de Desarrollo y Servicios Urbanos (**SDSU**) realizaron una jornada de limpia en el panteón municipal del Ejido Mazatlán, con el fin de mantener en buenas condiciones las instalaciones para este fin de semana porque se esperan visitas en los tradicionales festejos del 1 y 2 de noviembre de _"Día de Muertos"_, guardando las medidas preventivas por la contingencia sanitaria.
+**Playas de Rosarito, Baja California;** martes 27 de octubre de 2020.-* 
+
+Personal de la Secretaría de Desarrollo y Servicios Urbanos (**SDSU**) realizaron una jornada de limpia en el panteón municipal del Ejido Mazatlán, con el fin de mantener en buenas condiciones las instalaciones para este fin de semana porque se esperan visitas en los tradicionales festejos del 1 y 2 de noviembre de _"Día de Muertos"_, guardando las medidas preventivas por la contingencia sanitaria.
 
 Las actividades de limpia y remozamiento de este y otros espacios públicos, de acuerdo con las indicaciones de la Presidente Municipal Araceli Brown Figueredo, se realizan guardando la sana distancia y cuidando las recomendaciones de la Secretaría de Salud, todo con el fin de prevenir contagios por el Coronavirus.
 

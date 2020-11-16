@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "Suspende Ayuntamiento Tránsito Vehicular."
+title:  "Suspende Ayuntamiento Tránsito Vehicular"
 date:   2020-10-30 11:30  
 categories: tijuana
 permalink: /:categories/:title:output_ext

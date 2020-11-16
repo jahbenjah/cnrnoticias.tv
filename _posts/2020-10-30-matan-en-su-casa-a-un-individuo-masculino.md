@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  "Matan en su casa a un individuo masculino."
+title:  "Matan en su casa a un individuo masculino"
 date:   2020-10-30 2:30 
 categories: tecate
 permalink: /:categories/:title:output_ext

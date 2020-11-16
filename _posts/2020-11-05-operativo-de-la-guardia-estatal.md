@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Operativo de la Guardia Estatal"
+title:  "Operativo de la Guardia Estatal"
 date:   2020-11-05  
 categories: tecate
 permalink: /:categories/:title:output_ext

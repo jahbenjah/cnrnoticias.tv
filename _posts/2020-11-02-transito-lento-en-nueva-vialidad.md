@@ -9,7 +9,9 @@ autor:
 ---
 
 
-**Rosarito, Baja California;  lunes 2 de noviembre del 2020.-** Conductores ignoran señalamientos viales. A más de una semana de que el gobierno del estado de Baja California entregara la obra culmina del puente inteligente machado al 8vo ayuntamiento de Playas de Rosarito algunos conductores no obedecen las señales de tránsito instaladas en el viaducto, se trata de una señal **que prohíbe dar vuelta en “U”** que se instalo con la finalidad de que los conductores no realicen tal maniobra ya que esto podría provocar un altercado, situación que muchos Rosaritenses ignoran, provocando transito lento en la vialidad al realizar la peligrosa maniobra.
+**Rosarito, Baja California;  lunes 2 de noviembre del 2020.-** Conductores ignoran señalamientos viales. 
+
+A más de una semana de que el gobierno del estado de Baja California entregara la obra culmina del puente inteligente machado al 8vo ayuntamiento de Playas de Rosarito algunos conductores no obedecen las señales de tránsito instaladas en el viaducto, se trata de una señal **que prohíbe dar vuelta en “U”** que se instalo con la finalidad de que los conductores no realicen tal maniobra ya que esto podría provocar un altercado, situación que muchos Rosaritenses ignoran, provocando transito lento en la vialidad al realizar la peligrosa maniobra.
 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">

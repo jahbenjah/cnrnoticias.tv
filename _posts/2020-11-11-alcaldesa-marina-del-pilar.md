@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Alcaldesa Marina del Pilar”
+title:  "Alcaldesa Marina del Pilar"
 date:   2020-11-11  
 categories: mexicali
 permalink: /:categories/:title:output_ext

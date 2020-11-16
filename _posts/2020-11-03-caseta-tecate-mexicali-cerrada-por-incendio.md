@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Caseta tecate-mexicali cerrada por incendio"
+title:  "Caseta tecate-mexicali cerrada por incendio"
 date:   2020-11-04  
 categories: tecate
 permalink: /:categories/:title:output_ext
