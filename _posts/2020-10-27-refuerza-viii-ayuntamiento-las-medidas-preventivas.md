@@ -5,6 +5,7 @@ date:   2020-10-27 09:00:00 -0000
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/prevencion1.jpg
+alt: "Uso del cubrebocas"
 ---
 
 *Agradece Araceli Brown a la ciudadanía por la atención a las recomendaciones, ya que somos el municipio con menos casos.*

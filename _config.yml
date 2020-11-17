@@ -15,6 +15,7 @@ defaults:
       path: ""
     values:
       image: /img/cnr/mapa.jpg
+      alt: "Descripción de la imagen"
 theme: minima
 plugins:
   - jekyll-feed
