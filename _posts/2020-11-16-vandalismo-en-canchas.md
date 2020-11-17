@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Vandalismo en canchas”
+title:  "Vandalismo en canchas"
 date:   2020-11-16  
 categories: Rosarito
 permalink: /:categories/:title:output_ext

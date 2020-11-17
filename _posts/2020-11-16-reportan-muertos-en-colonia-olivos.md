@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Reportan muertos en colonia olivos”
+title:  "Reportan muertos en colonia olivos"
 date:   2020-11-16  
 categories: Tecate
 permalink: /:categories/:title:output_ext

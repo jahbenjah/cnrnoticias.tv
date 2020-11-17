@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Intento de suicidio”
+title:  "Intento de suicidio"
 date:   2020-11-17  
 categories: Tecate
 permalink: /:categories/:title:output_ext

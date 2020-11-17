@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Ejecutados en cerro azul”
+title:  "Ejecutados en cerro azul"
 date:   2020-11-17  
 categories: Tecate
 permalink: /:categories/:title:output_ext
