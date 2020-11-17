@@ -16,3 +16,11 @@ La madrugada del lunes dieciséis de noviembre del año en curso, se suscitó un
 
 
 El señor Edgar Guzman es una de las personas afectadas por el incendio. Pide apoyo a la ciudadanía para poder reconstruir su hogar. Si usted desea apoyarlo se puede comunicar con él, al numero 661-136-0845.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/incendio-devastador.jpg" loading="lazy"  alt="Incendio Devastador">
+    </div>
+  </div>
+</div>

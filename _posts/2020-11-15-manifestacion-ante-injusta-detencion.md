@@ -22,3 +22,11 @@ Los manifestantes se presentaron frente al edificio del Ejecutivo para exigir al
 
 
 Octavio Alexander, socio de la cooperativa Bajamar, dijo que, “el gobernador fue puesto por el pueblo. San Felipe voto por él, San Felipe voto por el Gobernador… Y nos tiene olvidados. Aun así, creen que no tendrán la mínima posibilidad de poder conversar con el Gobernador Jaime Bonilla, pero esperan que se sensibilice ante dicha injusticia”.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/manifestacion-ante-injusta-detencion-2.jpg" loading="lazy"  alt="Manifestación ante injusta detención">
+    </div>
+  </div>
+</div>

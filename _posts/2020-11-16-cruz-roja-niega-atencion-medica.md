@@ -21,3 +21,11 @@ La primera vez que se negó el servicio médico fue para el traslado de un joven
 
 
 La segunda ocasión que se negó el servicio fue para un oficial de la policía que presentó graves problemas de apéndice. El oficial mencionado se encuentra internado en el hospital del Issstecali del mirador ya que se le practicó una cirugía de emergencia.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/niega-atencion-inmediata-a-policia.jpg" loading="lazy"  alt="Cruz roja niega atención médica">
+    </div>
+  </div>
+</div>

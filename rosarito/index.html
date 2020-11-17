@@ -20,16 +20,13 @@ description: CNR Tijuana
                         {% for post in site.categories.rosarito %}
                         <article class="entry">
                             <div class="entry-img">
-                            <img loading="lazy" src="{{ post.image }}" alt="{{ post.alt}}" class="img-fluid">
+                            <img loading="lazy" src="{{ post.image }}" alt="{{ post.alt }}" class="img-fluid">
                             </div>
                             <h2 class="entry-title">
                             <a href="{{ post.url }}">{{ post.title }}</a>
                             </h2>
                             <div class="entry-content">
                             <p> {{ post.excerpt }} </p>
-                            <div class="read-more">
-                                <a href="{{ post.url }}">Leer Más</a>
-                            </div>
                             </div>
                         </article><!-- End blog entry -->
                         {% endfor %}
