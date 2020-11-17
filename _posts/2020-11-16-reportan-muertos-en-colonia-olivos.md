@@ -4,7 +4,7 @@ title:  "Reportan muertos en colonia olivos"
 date:   2020-11-16  
 categories: tecate
 permalink: /:categories/:title:output_ext
-image: /img/cnr/
+image: /img/cnr/popup.jpg
 autor: 
 ---
 

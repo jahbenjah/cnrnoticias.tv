@@ -4,7 +4,7 @@ title:  "Intento de suicidio"
 date:   2020-11-17  
 categories: tecate
 permalink: /:categories/:title:output_ext
-image: /img/cnr/
+image: /img/cnr/popup.jpg
 autor: 
 ---
 
