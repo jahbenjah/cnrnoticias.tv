@@ -2,7 +2,7 @@
 layout: blog
 title:  "Entrega de 15 unidades"
 date:   2020-11-17 
-Categories: rosarito 
+categories: rosarito 
 permalink: /:categories/:title:output_ext
 image: /img/cnr/entrega-de-unidades.jpg
 autor: 

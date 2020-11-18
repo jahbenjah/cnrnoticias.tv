@@ -2,7 +2,7 @@
 layout: blog
 title:  "Alimentos gratuitos"
 date:   2020-11-17 
-Categories: rosarito 
+categories: rosarito 
 permalink: /:categories/:title:output_ext
 image: /img/cnr/alimentos-gratuitos.jpg
 autor: 

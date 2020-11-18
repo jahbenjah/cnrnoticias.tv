@@ -2,7 +2,7 @@
 layout: blog
 title:  "Se refuerza vigilancia en zonas bancarias y áreas comerciales"
 date:   2020-11-17 
-Categories: rosarito 
+categories: rosarito 
 permalink: /:categories/:title:output_ext
 image: /img/cnr/refuerzo-de-vigilancia.jpg
 autor: 
