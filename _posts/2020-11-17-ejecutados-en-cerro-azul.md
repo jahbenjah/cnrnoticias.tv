@@ -24,10 +24,10 @@ Este dia en la delegacion cerro azul hasta el momento se reportan cuatro cuerpos
     <div class="carousel-item active">
        <img class="d-block w-100" src="/img/cnr/ejecutados-en-cerro-azul.jpg" loading="lazy"  alt="Ejecutados en Cerro Azul">
     </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/ejecutados-en-cerro-azul-2.jpg" loading="lazy"  alt="Ejecutados en Cerro Azul">
     </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/ejecutados-en-cerro-azul-3.jpg" loading="lazy"  alt="Ejecutados en Cerro Azul">
     </div>    
   </div>

@@ -19,10 +19,10 @@ El octavo ayuntamiento de playas de Rosarito continúa entregando apoyos sociale
     <div class="carousel-item active">
        <img class="d-block w-100" src="/img/cnr/apoyos-sociales.jpg" loading="lazy"  alt="Apoyo Social">
     </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/apoyos-sociales-2.jpg" loading="lazy"  alt="Apoyo Social">
     </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/apoyos-sociales-3.jpg" loading="lazy"  alt="Apoyo Social">
     </div>
   </div>

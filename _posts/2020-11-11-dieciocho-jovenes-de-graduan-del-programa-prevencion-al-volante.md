@@ -19,10 +19,10 @@ El día de hoy Miércoles 11 de noviembre del 2020, dieciocho jóvenes se gradua
     <div class="carousel-item active">
        <img class="d-block w-100" src="/img/cnr/dieciocho.jpg" loading="lazy"  alt="Jóvenes se graduan">
     </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/dieciocho-2.jpg" loading="lazy"  alt="Jóvenes se graduan">
     </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/dieciocho-3.jpg" loading="lazy"  alt="Jóvenes se graduan">
     </div>
   </div>

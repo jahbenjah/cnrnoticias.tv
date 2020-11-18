@@ -17,7 +17,7 @@ Esta mañana  oficiales de la policía municipal atendieron el reporte de una pe
     <div class="carousel-item active">
        <img class="d-block w-100" src="/img/cnr/intento-de-suicidio.jpg" loading="lazy"  alt="Intento de Suicidio">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/intento-de-suicidio-2.jpg" loading="lazy"  alt="Intento de Suicidio">
     </div>    
   </div>

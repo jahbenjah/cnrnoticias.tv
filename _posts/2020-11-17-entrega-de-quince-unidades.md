@@ -28,16 +28,16 @@ En el acto, la Presidente Municipal estuvo acompañada por el Secretario de Segu
     <div class="carousel-item active">
        <img class="d-block w-100" src="/img/cnr/entrega-de-unidades.jpg" loading="lazy"  alt="Entrega de 15 unidades">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/entrega-de-unidades-2.jpg" loading="lazy"  alt="Entrega de 15 unidades">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/entrega-de-unidades-3.jpg" loading="lazy"  alt="Entrega de 15 unidades">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/entrega-de-unidades-4.jpg" loading="lazy"  alt="Entrega de 15 unidades">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/entrega-de-unidades-5.jpg" loading="lazy"  alt="Entrega de 15 unidades">
     </div>                   
   </div>

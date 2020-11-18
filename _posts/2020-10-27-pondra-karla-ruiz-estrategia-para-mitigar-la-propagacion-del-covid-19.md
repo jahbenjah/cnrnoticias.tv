@@ -37,6 +37,8 @@ B1079-2020
     </div>
       <div class="carousel-item">
       <img class="d-block w-100" src="/img/cnr/cumbrebinacional4.jpg" loading="lazy"  alt="">
+    </div>
+      <div class="carousel-item">      
       <img class="d-block w-100" src="/img/cnr/cumbrebinacional5.jpg" loading="lazy"  alt="">
     </div>
   </div>

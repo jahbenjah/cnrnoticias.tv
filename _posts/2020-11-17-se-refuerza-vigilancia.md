@@ -31,7 +31,7 @@ El VIII Ayuntamiento de Playas de Rosarito trabaja para reducir la incidencia de
     <div class="carousel-item active">
        <img class="d-block w-100" src="/img/cnr/refuerzo-de-vigilancia.jpg" loading="lazy"  alt="Se refuerza vigilancia en zonas bancarias y áreas comerciales">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/refuerzo-de-vigilancia-2.jpg" loading="lazy"  alt="Se refuerza vigilancia en zonas bancarias y áreas comerciales">
     </div>    
   </div>

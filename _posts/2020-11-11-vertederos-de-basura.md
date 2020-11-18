@@ -19,7 +19,7 @@ A un costado del Boulevard Defensores de Baja California se localizó un gran ve
     <div class="carousel-item active">
        <img class="d-block w-100" src="/img/cnr/basura.jpg" loading="lazy"  alt="Vertederos de Basura">
     </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/basura-2.jpg" loading="lazy"  alt="Vertederos de Basura">
     </div>
   </div>

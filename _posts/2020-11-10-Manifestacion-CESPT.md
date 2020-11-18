@@ -8,7 +8,6 @@ image: /img/cnr/manifestacion-CESPT.jpg
 autor: 
 ---
 
-
 **Tijuana, Baja California;  Martes 10 de noviembre del 2020.-**Manifestacion CESPT
 
 

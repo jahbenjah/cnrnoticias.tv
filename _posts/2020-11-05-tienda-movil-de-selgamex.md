@@ -34,7 +34,7 @@ Para mayor información pueden llamar los teléfonos (686)5572936 o 018000253955
     <div class="carousel-item active">
        <img class="d-block w-100" src="/img/cnr/tienda-movil-de-selgamex.jpg" loading="lazy"  alt="Tienda Selgamex">
     </div>
-        <div class="carousel-item active">
+        <div class="carousel-item">
        <img class="d-block w-100" src="/img/cnr/tienda-movil-de-selgamex-2.jpg" loading="lazy"  alt="Tienda Selgamex">
     </div>
   </div>
