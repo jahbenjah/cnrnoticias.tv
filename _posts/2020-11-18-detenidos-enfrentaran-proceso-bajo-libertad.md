@@ -4,7 +4,7 @@ title:  "Caso Yurem- Detenidos enfrentarán proceso bajo libertad"
 date:   2020-11-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: img/cnr/detenidos-llevan-proceso-en-libertad.jpg
+image: /img/cnr/detenidos-llevan-proceso-en-libertad.jpg
 autor: 
 alt: "Los agentes involucrados del caso Yurem continuaran su proceso en libertad"
 ---

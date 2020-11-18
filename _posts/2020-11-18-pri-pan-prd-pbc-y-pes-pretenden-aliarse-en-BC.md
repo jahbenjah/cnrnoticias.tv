@@ -4,7 +4,7 @@ title:  "PRI,PAN,PRD, PEBC y PES pretenden aliarse en BC"
 date:   2020-11-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
-image: img/cnr/partidos-politicos.jpg
+image: /img/cnr/partidos-politicos.jpg
 autor: 
 alt: "PRI,PAN,PRD, PBC y PES pretenden aliarse en Baja California"
 ---
