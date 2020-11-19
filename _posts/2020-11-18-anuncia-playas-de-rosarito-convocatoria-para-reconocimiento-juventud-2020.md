@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  "Anuncia el VIII Ayuntamiento de Playas de Rosarito convocatorio para el PREMIO JUVENTUD 2020"
+title:  "Anuncia Playas de Rosarito convocatoria para Reconocimiento Juventud 2020"
 date:   2020-11-18 20:00
 categories: rosarito
 permalink: /:categories/:title:output_ext
@@ -9,7 +9,7 @@ alt: "Rosarito Centro"
 autor: "CNR Noticias - Canal 73"
 ---
 
-**Playas de Rosarito, Baja California;  Miércoles 18 de noviembre del 2020.-**ANUNCIA EL VIII AYUNTAMIENTO DE PLAYAS DE ROSARITO CONVOCATORIA PARA EL "PREMIO JUVENTUD 2020"
+**Playas de Rosarito, Baja California;  Miércoles 18 de noviembre del 2020.**
 
 
 Registro y requisitos disponibles hasta el 25 de noviembre en portales del Gobierno Municipal e IMJUVER.
