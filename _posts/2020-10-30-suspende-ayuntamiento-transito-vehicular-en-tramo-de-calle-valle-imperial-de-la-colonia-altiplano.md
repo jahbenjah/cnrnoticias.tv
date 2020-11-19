@@ -5,7 +5,8 @@ date:   2020-10-30 11:30
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/suspende-ayuntamiento-transito-vehicular.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
  

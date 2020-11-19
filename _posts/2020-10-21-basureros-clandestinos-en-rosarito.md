@@ -4,6 +4,8 @@ title:  "Los Basureros Clandestinos en Rosarito"
 date:   2020-10-21 11:10:48 -0700
 categories: rosarito
 permalink: /:categories/:title:output_ext
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 Los Basureros Clandestinos son mas comunes en las zonas alejadas en Rosarito. 

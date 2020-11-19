@@ -5,7 +5,8 @@ date:   2020-11-16
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/vandalismo-en-canchas.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 **Rosarito, Baja California;  Lunes 16 de noviembre del 2020.-** Vandalismo en canchas

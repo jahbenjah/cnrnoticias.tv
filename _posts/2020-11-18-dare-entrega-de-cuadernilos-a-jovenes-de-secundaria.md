@@ -5,7 +5,8 @@ date:   2020-11-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/dare-entrega-de-cuadernilos-a-jovenes-de-secundaria-2.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

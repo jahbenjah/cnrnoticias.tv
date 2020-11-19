@@ -5,7 +5,8 @@ date:   2020-11-18
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/previene-proteccion-civil-y-bomberos-por-pronostico-de-vientos-de-santa-ana-moderada-para-el-fin-de-semana.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

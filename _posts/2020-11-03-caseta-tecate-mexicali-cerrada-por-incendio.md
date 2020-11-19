@@ -5,7 +5,8 @@ date:   2020-11-04
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/incendio-en-carretera-tecate.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

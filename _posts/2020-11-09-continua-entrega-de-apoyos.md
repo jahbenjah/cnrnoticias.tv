@@ -5,7 +5,8 @@ date:   2020-11-09
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/entrega-de-apoyo.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

@@ -5,6 +5,8 @@ date:   2020-10-27 15:35:00 -0000
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/policiatj.jpg
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
  *En el dispositivo, participarán 966 elementos, 115 unidades patrullas y 60 motocicletas de la Secretaría de Seguridad y Protección Ciudadana Municipal*

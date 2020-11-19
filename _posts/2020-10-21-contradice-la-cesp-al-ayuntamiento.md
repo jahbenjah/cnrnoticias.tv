@@ -4,6 +4,8 @@ title:  "Contradice la CESPT al Ayuntamiento: no hubo derrame en Playas"
 date:   2020-10-21 11:10:48 -0700
 categories: tijuana
 permalink: /:categories/:title:output_ext
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 La Comisión Estatal de Servicios Públicos de Tijuana (**CESPT**), informa que gracias a la reparación realizada en un transformador cercano al Cárcamo de Playas de Tijuana, esta importante instalación cuyo objetivo es el alejamiento de aguas residuales, se puso en funcionamiento nuevamente a las 22:00 horas.

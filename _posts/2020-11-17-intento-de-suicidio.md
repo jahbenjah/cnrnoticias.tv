@@ -5,7 +5,8 @@ date:   2020-11-17
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/intento-de-suicidio-2.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 **Tecate, Baja California;  Martes 17 de noviembre del 2020.-** Intento de suicidio

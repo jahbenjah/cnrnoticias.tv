@@ -5,7 +5,8 @@ date:   2020-11-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/se-pide-la-entrega-del-cuerpo-de-la-niña-de-la-hielera-del-pipila.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

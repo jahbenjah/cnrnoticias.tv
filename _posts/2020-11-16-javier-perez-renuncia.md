@@ -5,7 +5,8 @@ date:   2020-11-16
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/javier-perez-renuncia.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

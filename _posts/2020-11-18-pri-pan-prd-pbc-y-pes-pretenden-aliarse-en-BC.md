@@ -5,8 +5,8 @@ date:   2020-11-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/partidos-politicos.jpg
-autor: 
-alt: "PRI,PAN,PRD, PBC y PES pretenden aliarse en Baja California"
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 **Tijuana, Baja California;  Miércoles 18 de noviembre del 2020.-** PRI,PAN,PRD, PBC y PES pretenden aliarse en Baja California

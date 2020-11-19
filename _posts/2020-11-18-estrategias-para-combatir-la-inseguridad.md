@@ -5,7 +5,8 @@ date:   2020-11-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/estrategias-para-combatir-la-inseguridad.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

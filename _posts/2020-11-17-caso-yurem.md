@@ -5,8 +5,8 @@ date:   2020-11-17
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/niño-yurem.jpg
-autor: 
-alt: "Yurem de 5 años fue impactado por una bala en el abdomen"
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

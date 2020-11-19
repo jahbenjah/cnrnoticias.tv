@@ -5,6 +5,8 @@ date:   2020-10-23
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/bomberos.jpeg
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 Hasta el momento los elementos se reportan estables, todavía no se saben la causa del percance.
