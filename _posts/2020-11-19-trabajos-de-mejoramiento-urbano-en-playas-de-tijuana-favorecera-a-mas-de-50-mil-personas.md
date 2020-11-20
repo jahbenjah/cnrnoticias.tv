@@ -23,3 +23,20 @@ Durante el recorrido, González Cruz puntualizó que se reparan más de 10 mil m
 
 
 El Gobierno Municipal sigue atendiendo el rezago en la infraestructura urbana de la región, poco a poco, los avances de las obras en toda la ciudad resultan palpables, dando cumplimiento al compromiso de seguir trabajando, hoy todos por Tijuana.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/trabajos-de-mejoramiento-urbano-en-playas-de-tijuana.jpg" loading="lazy"  alt="Trabajos de mejoramiento urbano en Playas de Tijuana favorecera a mas de 50 mil personas">
+    </div>
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/trabajos-de-mejoramiento-urbano-en-playas-de-tijuana-2.jpg" loading="lazy"  alt="Trabajos de mejoramiento urbano en Playas de Tijuana favorecera a mas de 50 mil personas">
+    </div>  
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/trabajos-de-mejoramiento-urbano-en-playas-de-tijuana-3.jpg" loading="lazy"  alt="Trabajos de mejoramiento urbano en Playas de Tijuana favorecera a mas de 50 mil personas">
+    </div>  
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/trabajos-de-mejoramiento-urbano-en-playas-de-tijuana-4.jpg" loading="lazy"  alt="Trabajos de mejoramiento urbano en Playas de Tijuana favorecera a mas de 50 mil personas">
+    </div>                    
+  </div>
+</div>

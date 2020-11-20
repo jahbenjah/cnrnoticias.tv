@@ -23,3 +23,11 @@ OBRERA, ESCORIAL, VISTAS DEL VALLE, LAS TORRES, ECOCHUMÁ, BICENTENARIO, PIEDRA 
 
 
  Invitamos a los habitantes de las colonias afectadas a tomar sus previsiones.
+
+ <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/aviso-de-corte-programado-de-la-cespte.jpg" loading="lazy"  alt="Aviso de corte programado de la CESPTE">
+    </div>          
+  </div>
+</div>

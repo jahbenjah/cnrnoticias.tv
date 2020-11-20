@@ -18,3 +18,11 @@ En el lugar de los hechos los oficiales hallaron un hombre tendido en el suelo c
 
 
 El segundo homicidio ocurrió alrededor del mediodía en el Circuito Oriente en el fraccionamiento Arcoiris donde de igual manera se reportó una persona lesionada por impacto de arma de fuego, pero ya no contaba con signos vitales.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/logos/logocnr.jpg" loading="lazy"  alt="Dos muertos en el Circuito Oriente">
+    </div>           
+  </div>
+</div>

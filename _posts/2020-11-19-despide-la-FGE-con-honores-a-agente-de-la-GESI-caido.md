@@ -21,3 +21,11 @@ Tras el toque de silencio y el último pase de lista, se hizo entrega de la Band
 Ángel Sánchez Torres, de 46 años, originario del Estado de México, ingresó a las filas de la policía estatal en Baja California el 20 de septiembre de 2005, donde desempeñó varios cargos, siendo el actual, Jefe de Grupo del Área Operativa de la GESI.
 Para despedir con cariño a su compañero, elementos de la corporación realizaron un minuto de aplausos y sonido de sirenas de las unidades dentro de las instalaciones de la Guardia Estatal de Seguridad en Ensenada.
 *Atendiendo la sensible situación en que se encuentra la familia, la tarde de este miércoles, se hizo entrega del monto total de los gastos funerarios por parte de la unidad administrativa de la institución*
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/despide-la-fge-con-honores-a-agente.jpg" loading="lazy"  alt="Despide la FGE con honores a agente de la GESI caído en cumplimiento de su deber">
+    </div>           
+  </div>
+</div>

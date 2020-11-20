@@ -35,3 +35,11 @@ Aunado a ello platicó parte de las estrategias que estará implementando en las
 
 
 Al finalizar tanto el Consejo como la Secretaría se comprometieron a seguir trabajando de la mano para mantener los diversos programas de prevención en apoyo a los empresarios y comerciantes, pero lo más importante en beneficio de toda la ciudadanía Tijuanense.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/sostiene-juan-valdes-reunion-con-miembros-del-consejo.jpg" loading="lazy"  alt="Sostiene Juan Valdes reunión con miembros del consejo coordinador empresarial">
+    </div>           
+  </div>
+</div>

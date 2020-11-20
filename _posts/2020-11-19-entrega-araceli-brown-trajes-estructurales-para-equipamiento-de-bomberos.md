@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title:  "Entrega Araceli Brown trajes estructurales para equipamiento de bomberos de Playas de Rosarito"
-date:   2020-11-19
+date:   2020-11-19 20:00
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/entrega-araceli-brown-trajes-estructurales-para-equipamiento.jpg
@@ -22,3 +22,32 @@ La Presidente Municipal expuso que la inversión municipal hecha para la adquisi
 Brown Figueredo refrendó el compromiso con la ciudadanía, tras referir que no es momento de bajar la guardia ante la adversidad, sobre todo porque pudieran presentarse complicaciones ante la proximidad de los cambios de clima y de temperaturas.
 "Pero es necesario que la ciudadanía sienta la seguridad de que cuenta hoy, con un Heroico Cuerpo de Bomberos, que al recibir estos equipos estructurales se convierte en el mejor equipo del Estado y en uno de los mejores del País", concluyó la Alcaldesa.
 Junto con Araceli Brown, al acto asistieron el titular de la Secretaría de Seguridad Ciudadana Municipal, Francisco Arellano Ortiz; el director de Protección Civil y Bomberos, Aroldo Rentería; el Tesorero, Manuel Zermeño; el Oficial Mayor, Jaime Ibarra; y Héctor López, en representación de la Secretaria General Estatal del Sindicato de Burócratas Sección Rosarito,  Hilda Verónica Jiménez Serrano.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/entrega-araceli-brown-trajes-estructurales-para-equipamiento.jpg" loading="lazy"  alt="Entrega Araceli Brown trajes estructurales para equipamiento de bomberos de Playas de Rosarito">
+    </div>
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/entrega-araceli-brown-trajes-estructurales-para-equipamiento-2.jpg" loading="lazy"  alt="Entrega Araceli Brown trajes estructurales para equipamiento de bomberos de Playas de Rosarito">
+    </div>    
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/entrega-araceli-brown-trajes-estructurales-para-equipamiento-3.jpg" loading="lazy"  alt="Entrega Araceli Brown trajes estructurales para equipamiento de bomberos de Playas de Rosarito">
+    </div> 
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/entrega-araceli-brown-trajes-estructurales-para-equipamiento-4.jpg" loading="lazy"  alt="Entrega Araceli Brown trajes estructurales para equipamiento de bomberos de Playas de Rosarito">
+    </div> 
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/entrega-araceli-brown-trajes-estructurales-para-equipamiento-5.jpg" loading="lazy"  alt="Entrega Araceli Brown trajes estructurales para equipamiento de bomberos de Playas de Rosarito">
+    </div> 
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/entrega-araceli-brown-trajes-estructurales-para-equipamiento-6.jpg" loading="lazy"  alt="Entrega Araceli Brown trajes estructurales para equipamiento de bomberos de Playas de Rosarito">
+    </div> 
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/entrega-araceli-brown-trajes-estructurales-para-equipamiento-7.jpg" loading="lazy"  alt="Entrega Araceli Brown trajes estructurales para equipamiento de bomberos de Playas de Rosarito">
+    </div> 
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/entrega-araceli-brown-trajes-estructurales-para-equipamiento-8.jpg" loading="lazy"  alt="Entrega Araceli Brown trajes estructurales para equipamiento de bomberos de Playas de Rosarito">
+    </div>                                 
+  </div>
+</div>

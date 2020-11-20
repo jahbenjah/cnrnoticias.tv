@@ -26,3 +26,20 @@ Rodríguez Ibarra explicó que el lavado frecuente de manos, la aplicación de g
 
 
 El funcionario agregó que esta paramunicipal adquirió los equipos y materiales necesarios para realizar estos procedimientos de desinfección y garantizar el bienestar de los pasajeros y de los operadores de las unidades de la ruta El Refugio-Puerta México, con el compromiso de seguir trabajando, hoy todos por Tijuana.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/desinfecta-ayuntamiento-de-tijuana-estaciones-y-terminales.jpg" loading="lazy"  alt="Desinfecta ayuntamiento de Tijuana estaciones y terminales del SITT">
+    </div>
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/desinfecta-ayuntamiento-de-tijuana-estaciones-y-terminales-2.jpg" loading="lazy"  alt="Desinfecta ayuntamiento de Tijuana estaciones y terminales del SITT">       
+    </div> 
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/desinfecta-ayuntamiento-de-tijuana-estaciones-y-terminales-3.jpg" loading="lazy"  alt="Desinfecta ayuntamiento de Tijuana estaciones y terminales del SITT">       
+    </div> 
+    <div class="carousel-item">
+       <img class="d-block w-100" src="/img/cnr/desinfecta-ayuntamiento-de-tijuana-estaciones-y-terminales-4.jpg" loading="lazy"  alt="Desinfecta ayuntamiento de Tijuana estaciones y terminales del SITT">       
+    </div>                    
+  </div>
+</div>

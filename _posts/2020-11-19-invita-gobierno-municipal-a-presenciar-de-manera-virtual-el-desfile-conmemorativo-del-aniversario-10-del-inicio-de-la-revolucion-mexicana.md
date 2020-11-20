@@ -26,3 +26,11 @@ Las actividades se realizarán a partir de las 10:00 horas, y serán transmitida
 
 
 El Gobierno Municipal reitera su llamado a la ciudadanía para que se abstengan y eviten participar en aglomeraciones o estar en grupos numerosos, guardar la sana distancia, usar cubrebocas y usar gel con alcohol para limpiar sus manos, entre otras medidas sanitarias, esto con el propósito de contribuir a la reducción de casos y contagios, para que de esta forma en el Quinto Municipio se pueda regresar más pronto a las actividades que dicta esta nueva normalidad.
+
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+       <img class="d-block w-100" src="/img/cnr/invita-gobierno-municipal-a-presenciar-de-manera-virtual.jpg" loading="lazy"  alt="Invita gobierno municipal a presenciar de manera virtual el desfile conmemorativo del aniversario 110 del inicio de la revolución mexicana">
+    </div>          
+  </div>
+</div>
