@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title:  "Cañones se convierten en basureros"
-date:   2020-11-19
+date:   2020-11-19 08:00
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/canones-se-convierten-en-basureros.jpg

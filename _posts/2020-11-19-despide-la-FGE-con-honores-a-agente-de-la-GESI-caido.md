@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title:  "Despide la FGE con honores a agente de la GESI caído en cumplimiento de su deber"
-date:   2020-11-19
+date:   2020-11-19 20:00
 categories: ensenada
 permalink: /:categories/:title:output_ext
 image: /img/cnr/despide-la-fge-con-honores-a-agente.jpg

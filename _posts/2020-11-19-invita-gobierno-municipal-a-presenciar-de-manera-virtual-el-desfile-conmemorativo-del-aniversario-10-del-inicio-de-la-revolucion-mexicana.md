@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title:  "Invita gobierno municipal a presenciar de manera virtual el desfile conmemorativo del aniversario 110 del inicio de la revolución mexicana"
-date:   2020-11-19
+date:   2020-11-19 18:00
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/invita-gobierno-municipal-a-presenciar-de-manera-virtual.jpg

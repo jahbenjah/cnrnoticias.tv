@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title:  "Solicitan apoyo de la ciudadanía"
-date:   2020-11-19
+date:   2020-11-19 07:00
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/solicitan-apoyo-de-la-ciudadania-2.jpg

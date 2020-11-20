@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title:  "Sostiene Juan Valdes reunión con miembros del consejo coordinador empresarial"
-date:   2020-11-19
+date:   2020-11-19 20:00
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/sostiene-juan-valdes-reunion-con-miembros-del-consejo.jpg

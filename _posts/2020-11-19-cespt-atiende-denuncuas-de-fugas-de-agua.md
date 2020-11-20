@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title:  "CESPT atiende denuncias de fugas de agua"
-date:   2020-11-19
+date:   2020-11-19 12:00
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/cespt-atiende-denuncuas-de-fugas-de-agua-2.jpg

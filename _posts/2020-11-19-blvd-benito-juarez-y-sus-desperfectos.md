@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title:  "Blvd. Benito Juárez y sus desperfectos"
-date:   2020-11-19
+date:   2020-11-19 10:00
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/blvd-benito-juarez-y-sus-desperfectos.jpg

@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title:  "Desinfecta ayuntamiento de Tijuana estaciones y terminales del SITT"
-date:   2020-11-19
+date:   2020-11-19 10:00
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/desinfecta-ayuntamiento-de-tijuana-estaciones-y-terminales.jpg
