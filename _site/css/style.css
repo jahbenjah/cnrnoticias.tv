@@ -751,6 +751,12 @@ button.btn:hover {
     color: #7c7c7b;
 }
 
+.main-news .entry-content .read-more {
+    -moz-text-align-last: right;
+    text-align-last: right;
+}
+
+
 
 /**********************************/
 /********* Breadcrumb CSS *********/
