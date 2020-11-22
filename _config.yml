@@ -8,7 +8,8 @@ description: >-
 baseurl: "" 
 url: "https://cnrnoticias.tv"
 twitter_username: jekyllrb
-
+disqus:
+ shortname: cnrnoticias-tv
 # Build settings
 defaults:
   - scope:
