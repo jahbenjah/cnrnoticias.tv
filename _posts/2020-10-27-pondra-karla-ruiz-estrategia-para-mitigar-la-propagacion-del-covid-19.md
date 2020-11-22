@@ -5,7 +5,10 @@ date:   2020-10-27 09:00:00 -0000
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/cumbrebinacional1.jpg
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
+
  • La primer edil subrayó en la buena relación que existe con autoridades de San Diego, muestra de ello, fue la donación de mil caretas para personal de salud y tres ventiladores médicos
 
 **Tijuana, Baja California, a 27 de octubre.-** La alcaldesa de Tijuana, Karla Patricia Ruiz Macfarland, formó parte de la novena edición de la Cumbre Anual de Alcaldes Fronterizos entre México y Estados Unidos, que se realizó de manera virtual, ponderando las medidas que encabeza la administración municipal para mitigar la propagación del Covid-19, en la región, acciones que benefician a ambos lados de la frontera.

@@ -5,7 +5,8 @@ date:   2020-11-10
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/manifestacion-CESPT.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 **Tijuana, Baja California;  Martes 10 de noviembre del 2020.-**Manifestacion CESPT

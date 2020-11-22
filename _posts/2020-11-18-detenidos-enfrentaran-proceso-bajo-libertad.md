@@ -5,8 +5,8 @@ date:   2020-11-18
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/detenidos-llevan-proceso-en-libertad.jpg
-autor: 
-alt: "Los agentes involucrados del caso Yurem continuaran su proceso en libertad"
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 **Tijuana, Baja California;  Miércoles 18 de noviembre del 2020.-** Caso Yurem- Detenidos enfrentarán proceso bajo libertad

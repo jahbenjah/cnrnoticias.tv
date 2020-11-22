@@ -5,7 +5,8 @@ date:   2020-10-30 2:30
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/matan-a-hombre.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

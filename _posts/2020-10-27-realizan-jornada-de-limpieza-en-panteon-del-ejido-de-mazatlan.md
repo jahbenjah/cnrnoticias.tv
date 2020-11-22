@@ -5,6 +5,8 @@ date:   2020-10-27 09:00:00 -0000
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/panteon1.jpg
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

@@ -4,6 +4,8 @@ title:  "Llevan beneficios a comunidades de playas de Rosarito con acciones de b
 date:   2020-10-21 11:10:48 -0700
 categories: rosarito
 permalink: /:categories/:title:output_ext
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 LLEVAN BENEFICIOS A COMUNIDADES DE PLAYAS DE ROSARITO CON ACCIONES DE BRIGADAS DE LA SECRETARÍA DE DESARROLLO Y SERVICIOS URBANOS

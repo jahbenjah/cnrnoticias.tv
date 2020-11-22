@@ -5,7 +5,8 @@ date:   2020-10-30 10:25
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/playasdetijuana-4.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
  

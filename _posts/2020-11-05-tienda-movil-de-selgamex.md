@@ -5,7 +5,8 @@ date:   2020-11-05
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/tienda-movil-de-selgamex-2.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

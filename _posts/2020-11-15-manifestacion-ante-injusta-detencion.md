@@ -5,7 +5,8 @@ date:   2020-11-15
 categories: mexicali
 permalink: /:categories/:title:output_ext
 image: /img/cnr/manifestacion-ante-injusta-detencion-2.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 

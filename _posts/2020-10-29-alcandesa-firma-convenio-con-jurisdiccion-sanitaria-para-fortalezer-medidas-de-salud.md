@@ -5,7 +5,8 @@ date:   2020-10-29 17:30
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/alcaldesa-de-tijuana-4.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
  

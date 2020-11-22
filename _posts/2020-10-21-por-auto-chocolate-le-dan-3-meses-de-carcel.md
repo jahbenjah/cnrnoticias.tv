@@ -4,6 +4,8 @@ title:  "Por auto chocolate le dan 3 meses de cárcel y multa de 225 mil pesos"
 date:   2020-10-21 06:30:00 -0000
 categories: ensenada
 permalink: /:categories/:title:output_ext
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
 
 Por: _Uniradio Informa_

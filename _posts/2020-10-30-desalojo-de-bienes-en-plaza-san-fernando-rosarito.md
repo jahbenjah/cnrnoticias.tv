@@ -5,7 +5,8 @@ date:   2020-10-30 10:27
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/desalojo.jpg
-autor: 
+alt: "Rosarito Centro"
+autor: "CNR Noticias - Canal 73"
 ---
  
 **Rosarito :** Al momento se lleva a cabo desalojo de bienes en la plaza San Fernando, son varias viviendas en las cuales a autoridad de fiscalía y municipal está haciendo presencia para desalojar a las personas invasoras de los predios.
