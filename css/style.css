@@ -1440,3 +1440,10 @@ button.btn:hover {
         text-align: center; 
     } 
 }
+
+
+article.entry {
+    padding: 30px; 
+     margin-bottom: 60px; 
+     box-shadow: 0 4px 16px rgba(248, 245, 245, 0.1);
+}
