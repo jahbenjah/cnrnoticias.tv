@@ -1,10 +1,10 @@
 ﻿---
 layout: blog
-title:  “Exhorta gobierno de Playas de Rosarito a manejar con precaución en cruceros del bulevar Benito Juárez”
+title:  "Exhorta gobierno de Playas de Rosarito a manejar con precaución en cruceros del bulevar Benito Juárez"
 date:  2020-11-25
 categories: rosarito
 permalink: /:categories/:title:output_ext
-image: img/cnr/
+image: /img/cnr/manejar-con-precaucion.jpg
 autor: 
 ---
 
@@ -19,7 +19,7 @@ De esta forma, el Gobierno Municipal, atiende los problemas de los que se tiene 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/una-persona-armada.jpg" loading="lazy"  alt="Patrulla de policia que acudio">
+       <img class="d-block w-100" src="/img/cnr/manejar-con-precaucion.jpg" loading="lazy"  alt="Exhorto a manejar con precaución">
     </div>
   </div>
 </div>
