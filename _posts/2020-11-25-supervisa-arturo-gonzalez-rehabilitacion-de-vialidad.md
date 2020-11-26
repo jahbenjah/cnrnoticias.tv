@@ -19,7 +19,7 @@ El Gobierno de la Ciudad continúa atendiendo las necesidades más apremiantes d
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-       <img class="d-block w-100" src="/img/cnr/supervisa-arturo-gonzalez.jpg" loading="lazy"  alt="">
+       <img class="d-block w-100" src="/img/cnr/supervisa-arturo-gonzalez.jpg" loading="lazy"  alt="Supervisa Arturo Gonzalez rehabilitación de vialidad en la colonia Xicotencatl Leyva">
     </div>
   </div>
 </div>
