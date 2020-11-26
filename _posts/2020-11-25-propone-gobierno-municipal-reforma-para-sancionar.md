@@ -2,6 +2,7 @@
 layout: blog
 title:  "Propone gobierno municipal reforma para sancionar el acoso sexual y callejero en Playas de Rosarito"
 categories: rosarito
+date:  2020-11-25
 permalink: /:categories/:title:output_ext
 image: /img/cnr/propone-gobierno-municipal-reforma.jpg
 autor: 

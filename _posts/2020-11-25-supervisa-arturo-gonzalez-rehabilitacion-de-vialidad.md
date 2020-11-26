@@ -2,6 +2,7 @@
 layout: blog
 title:  "Supervisa Arturo Gonzalez rehabilitación de vialidad en la colonia Xicotencatl Leyva"
 categories: tijuana
+date:  2020-11-25
 permalink: /:categories/:title:output_ext
 image: /img/cnr/supervisa-arturo-gonzalez.jpg
 autor: 

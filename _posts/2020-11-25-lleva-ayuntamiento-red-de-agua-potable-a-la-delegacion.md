@@ -1,6 +1,7 @@
 ﻿---
 layout: blog
 title:  “Lleva ayuntamiento red de agua potable a la delegación San Antonio de los Buenos”
+date:  2020-11-25
 categories: tijuana
 permalink: /:categories/:title:output_ext
 image: /img/cnr/lleva-ayutameinto-red-de-agua-potable.jpg

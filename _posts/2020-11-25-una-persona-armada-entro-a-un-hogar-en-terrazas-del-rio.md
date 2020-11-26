@@ -1,6 +1,7 @@
 ﻿---
 layout: blog
 title:  "Una persona armada entró a un hogar en Terrazas del Río"
+date:  2020-11-25
 categories: tecate
 permalink: /:categories/:title:output_ext
 image: /img/cnr/una-persona-armada.jpg

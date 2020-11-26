@@ -1,6 +1,7 @@
 ﻿---
 layout: blog
 title:  “Exhorta gobierno de Playas de Rosarito a manejar con precaución en cruceros del bulevar Benito Juárez”
+date:  2020-11-25
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: img/cnr/
