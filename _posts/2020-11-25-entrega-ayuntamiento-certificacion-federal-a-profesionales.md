@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Entrega ayuntamiento certificación federal a profesionales en adicciones”
+title:  "Entrega ayuntamiento certificación federal a profesionales en adicciones"
 date:  2020-11-25 00:00
 categories: tijuana
 permalink: /:categories/:title:output_ext
