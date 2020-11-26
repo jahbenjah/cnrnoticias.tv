@@ -4,7 +4,7 @@ title:  "Afectados por el movimiento de tierra en Sanchez Taboada"
 categories: tijuana
 date:  2020-11-25 00:00
 permalink: /:categories/:title:output_ext
-image: img/cnr/
+image: /img/cnr/afectados-por-el-movimiento.jpg
 autor: 
 ---
 
