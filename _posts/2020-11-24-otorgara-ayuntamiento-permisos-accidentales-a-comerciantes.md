@@ -8,11 +8,7 @@ alt: "Otorgará ayuntamiento permisos accidentales a comerciantes durante tempor
 autor: 
 ---
 
-
-**Tijuana, Baja California;  Martes 24 de noviembre del 2020.-**
-
-
-El XXIII Ayuntamiento de Tijuana otorgará permisos accidentales a comerciantes ambulantes, durante la temporada decembrina, evitando prácticas irregulares en zonas prohibidas, en cumplimiento a la encomienda del presidente municipal, Arturo González Cruz, de mantener el orden en el comercio de la ciudad.
+**Tijuana, Baja California;  Martes 24 de noviembre del 2020.-** El XXIII Ayuntamiento de Tijuana otorgará permisos accidentales a comerciantes ambulantes, durante la temporada decembrina, evitando prácticas irregulares en zonas prohibidas, en cumplimiento a la encomienda del presidente municipal, Arturo González Cruz, de mantener el orden en el comercio de la ciudad.
 
 
 El interés del primer edil, es garantizar el orden durante las fechas navideñas, para privilegiar la salud y seguridad de los ciudadanos, sobre todo por la permanencia de la contingencia sanitaria a nivel mundial, motivo por el que se exhorta a seguir respetando las medidas preventivas, como el uso de cubrebocas, gel antibacterial y mantener sana distancia, para el cuidado personal y de sus consumidores.

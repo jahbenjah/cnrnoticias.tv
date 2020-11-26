@@ -8,10 +8,7 @@ autor:
 ---
 
 
-**Tijuana, Baja California;  Lunes 23 de noviembre del 2020.-**
-
-
-El XXIII Ayuntamiento de Tijuana informa que en cumplimiento a la instrucción del presidente municipal, Arturo González Cruz, para reforzar las medidas sanitarias contra el Covid-19, durante diciembre, continuarán suspendidos los permisos para eventos o festejos de congregaciones religiosas en la ciudad.
+**Tijuana, Baja California;  Lunes 23 de noviembre del 2020.-** El XXIII Ayuntamiento de Tijuana informa que en cumplimiento a la instrucción del presidente municipal, Arturo González Cruz, para reforzar las medidas sanitarias contra el Covid-19, durante diciembre, continuarán suspendidos los permisos para eventos o festejos de congregaciones religiosas en la ciudad.
 
 
 La directora de Asuntos Religiosos, Iris Juárez Cruz, reconoció la labor de la Arquidiócesis de Tijuana por exhortar a la población a evitar en todos sus templos las peregrinaciones con motivo del Día de la Virgen de Guadalupe y únicamente realizar celebraciones eclesiásticas para los feligreses, con lo que se espera  prevenir aglomeraciones.
