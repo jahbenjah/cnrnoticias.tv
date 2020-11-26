@@ -20,3 +20,5 @@ deployment:
     - /bin/cp _site/index.html $DEPLOYPATH
     - /bin/cp _site/robots.txt $DEPLOYPATH
     - /bin/cp _site/sitemap.xml $DEPLOYPATH
+    - /bin/cp _site/sw.js $DEPLOYPATH
+    - /bin/cp _site/site.webmanifest.json $DEPLOYPATH
