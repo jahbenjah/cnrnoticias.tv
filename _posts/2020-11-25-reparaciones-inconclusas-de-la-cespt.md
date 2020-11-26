@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Reparaciones inconclusas de la CESPT”
+title:  "Reparaciones inconclusas de la CESPT"
 categories: rosarito
 permalink: /:categories/:title:output_ext
 date:  2020-11-25 00:00
