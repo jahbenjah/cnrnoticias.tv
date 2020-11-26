@@ -1,7 +1,7 @@
 ﻿---
 layout: blog
 title:  "Anuncia Araceli Brown instalacion de camaras de videovigilancia en vialidades de Playas de Rosarito para labores de vigilancia y seguimiento contra actos delictivos"
-date:  2020-11-25
+date:  2020-11-25 00:00
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/anuncia-aracely-brown-instalacion.jpg

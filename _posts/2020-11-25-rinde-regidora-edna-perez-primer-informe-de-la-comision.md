@@ -2,7 +2,7 @@
 layout: blog
 title:  “Rinde regidora Edna Perez primer informe de la comision de educacion, cultura, bibliotecas, ciencia y tecnología”
 categories: tijuana
-date:  2020-11-25
+date:  2020-11-25 00:00
 permalink: /:categories/:title:output_ext
 image: /img/cnr/rinde_regidora_edna_perez_1.jpg
 autor: 
