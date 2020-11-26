@@ -10,7 +10,7 @@ autor: "CNR Noticias - Canal 73"
 ---
 
 
-**Tecate, Baja California;  Jueves 5 de noviembre del 2020.-**Balean a personal de SEDENA”
+**Tecate, Baja California;  Jueves 5 de noviembre del 2020.-**Balean a personal de SEDENA"
 
 
 Recuerda con versiones extraoficiales o no confirmadas por la autoridad, personal de Sedena se encontraba realizando un rondín en el área de Jacumé, Durante este recorrido recibieron una agresión con arma de fuego, impactando al menos tres ocasiones en la unidad de Sedena Por lo cual solicitaron refuerzos y el apoyo de la Policía local. 

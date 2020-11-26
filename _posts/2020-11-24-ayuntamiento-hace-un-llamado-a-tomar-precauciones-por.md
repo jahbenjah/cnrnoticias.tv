@@ -15,7 +15,7 @@ autor:
 El presidente municipal, Arturo González Cruz, hizo un llamado a la población para tomar precauciones ante la presencia de una condición Santa Ana en la ciudad a partir del jueves, siendo el viernes, el día con mayores vientos y temperaturas cálidas y más bajos niveles de humedad. 
 
 
-“De acuerdo a la consulta de los modelos y pronósticos meteorológicos, a partir de la tarde del jueves, se espera el inicio de una condición Santa Ana, con vientos del Noreste al Este, de una velocidad de entre los 40 a 64 kilómetros por hora en las costas y de entre 64 a 88 kilómetros por hora en los valles”, indicó el director de Protección Civil, José Luis Rosas Blanco. 
+"De acuerdo a la consulta de los modelos y pronósticos meteorológicos, a partir de la tarde del jueves, se espera el inicio de una condición Santa Ana, con vientos del Noreste al Este, de una velocidad de entre los 40 a 64 kilómetros por hora en las costas y de entre 64 a 88 kilómetros por hora en los valles", indicó el director de Protección Civil, José Luis Rosas Blanco. 
 
 
 El funcionario explicó que será el viernes cuando se presenten vientos fuertes y temperaturas más altas, acompañadas de bajos niveles de humedad relativa. Dichas condiciones climáticas se mantendrán hasta el sábado, por lo que se exhorta a la población a seguir las medidas de prevención correspondientes, para evitar enfermedades.

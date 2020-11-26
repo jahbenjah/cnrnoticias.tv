@@ -18,7 +18,7 @@ Más de 20 toneladas fueron retiradas del bulevar Blake Mora en la colonia Maria
 El director de Inspección y Verificación, Adolfo García Dworak, explicó que las labores de saneamiento se llevaron a cabo en los espacios públicos donde hay mayor afluencia de personas, por lo que se busca la participación de la comunidad promoviendo acciones para la recuperación de espacios libres de contaminación.
 
 
-“Llevamos aproximadamente seis jornadas de limpieza, en esta ocasión, nos encontramos en el área conocida como ‘El Barretal’, que es un lugar, donde los fines de semana se instala el sobre ruedas más grande de la ciudad, conocido como ‘La Curva’, en la Delegación La Presa Abelardo L. Rodríguez, logrando retirar más de 20 toneladas de desechos”, indicó el funcionario.
+"Llevamos aproximadamente seis jornadas de limpieza, en esta ocasión, nos encontramos en el área conocida como ‘El Barretal’, que es un lugar, donde los fines de semana se instala el sobre ruedas más grande de la ciudad, conocido como ‘La Curva’, en la Delegación La Presa Abelardo L. Rodríguez, logrando retirar más de 20 toneladas de desechos", indicó el funcionario.
 
 
 García Dworak informó que en esta jornada de limpieza participaron 300 comerciantes ambulantes y vecinos de la zona, que apoyados de escobas, rastrillos y bolsas, recolectaron residuos domésticos y basura pesada en camellones y vialidades aledañas al bulevar Blake Mora.

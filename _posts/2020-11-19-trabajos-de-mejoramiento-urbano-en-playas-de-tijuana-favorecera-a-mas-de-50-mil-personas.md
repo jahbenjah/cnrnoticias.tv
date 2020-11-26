@@ -16,7 +16,7 @@ autor: "CNR Noticias - Canal 73"
 El presidente municipal, Arturo González Cruz, constató los avances de los trabajos de reencarpetado que se llevan a cabo sobre el Paseo Playas, que favorecerán a más de 50 mil personas, a fin de continuar impulsando acciones que atiendan el rezago en la infraestructura urbana de la localidad.
 
 
-“Estamos trabajando, en modo nocturno, para dar continuidad al programa de rehabilitación de vialidades principales que se realizan en las nueve delegaciones, así evitar molestias a la población que diariamente se traslada por la zona.”, informó el primer edil.
+"Estamos trabajando, en modo nocturno, para dar continuidad al programa de rehabilitación de vialidades principales que se realizan en las nueve delegaciones, así evitar molestias a la población que diariamente se traslada por la zona.", informó el primer edil.
 
 
 Durante el recorrido, González Cruz puntualizó que se reparan más de 10 mil metros cuadrados desde la entrada de la demarcación hasta la sección Costa Hermosa, para ello se utiliza una mezcla asfáltica caliente que garantiza una vida útil de hasta 12 años, estimando concluir los trabajos para la primer quincena de diciembre.

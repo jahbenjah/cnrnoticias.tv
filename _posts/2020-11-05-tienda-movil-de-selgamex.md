@@ -10,7 +10,7 @@ autor: "CNR Noticias - Canal 73"
 ---
 
 
-**Tecate, Baja California;  Jueves 5 de noviembre del 2020.-**Tienda móvil de selgamex”
+**Tecate, Baja California;  Jueves 5 de noviembre del 2020.-**Tienda móvil de selgamex"
 
 
 Para evitar que los ciudadanos de las comunidades más alejadas y vulnerables de Baja California se desplacen largas distancias para adquirir sus alimentos, Segalmex-Diconsa-Liconsa sigue atendiendo con la Tienda Móvil, que lleva la canasta básica y leche en todas sus presentaciones.

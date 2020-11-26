@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Lleva ayuntamiento red de agua potable a la delegación San Antonio de los Buenos”
+title:  "Lleva ayuntamiento red de agua potable a la delegación San Antonio de los Buenos"
 date:  2020-11-25 00:00
 categories: tijuana
 permalink: /:categories/:title:output_ext
@@ -9,7 +9,7 @@ autor:
 ---
 **Tijuana, Baja California; Miércoles 25 de noviembre del 2020.-** Con una inversión de 1 millón 650 mil pesos, el XXIII Ayuntamiento de Tijuana, construye una red de agua potable en la calle Cañón del Gallo de la Delegación San Antonio de los Buenos, con la que se mejorarán la calidad de vida de cerca de 5 mil residentes de la colonia Xicoténcatl Leyva y cuya ejecución fue supervisada por el presidente municipal, Arturo González Cruz.
 
->_“Estamos atendiendo las necesidades ciudadanas, nos hemos encargado de asignar los recursos correspondientes, como aquí en la colonia Xicoténcatl Leyva de la Demarcación San Antonio de los Buenos, donde se construye una red de agua potable y se instala una válvula que ayudará a controlar el flujo del vital líquido”_, indicó el primer edil.
+>_"Estamos atendiendo las necesidades ciudadanas, nos hemos encargado de asignar los recursos correspondientes, como aquí en la colonia Xicoténcatl Leyva de la Demarcación San Antonio de los Buenos, donde se construye una red de agua potable y se instala una válvula que ayudará a controlar el flujo del vital líquido"_, indicó el primer edil.
 
 Durante su recorrido de supervisión, González Cruz, explicó que en la zona se colocará un tubo de PVC, mismo que abarcará 493 metros lineales, lo que mejorará la capacidad de flujo con un material que garantizará a los cerca de 5 mil residentes beneficiados, varios años de servicios. 
 

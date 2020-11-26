@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “Rinde regidora Edna Perez primer informe de la comision de educacion, cultura, bibliotecas, ciencia y tecnología”
+title:  "Rinde regidora Edna Perez primer informe de la comision de educacion, cultura, bibliotecas, ciencia y tecnología"
 categories: tijuana
 date:  2020-11-25 00:00
 permalink: /:categories/:title:output_ext
@@ -10,7 +10,7 @@ autor:
 
 **Tijuana, Baja California; Miércoles 25 de noviembre del 2020.-** En apego a las normas jurídicas, la regidora presidenta de la Comisión de Educación, Cultura, Bibliotecas, Ciencia y Tecnología, Edna Mireya Pérez Corona, rindió su primer informe de actividades, ante distintas autoridades, durante una ceremonia solemne que se llevó a cabo en el Instituto Municipal de Arte y Cultura (IMAC).
 
-> “Este ha sido un año arduo en todos los sentidos, ha tenido problemáticas de salud y económica; sin embargo, aquí donde comienza la patria, Tijuana está hecha de todas las personalidades, culturas, sabores y ganas de salir adelante. La ciudad es bondadosa y su gente también, por ello me complace trabajar cada día por impulsar su avance y desarrollo”, aseguró la edil.
+> "Este ha sido un año arduo en todos los sentidos, ha tenido problemáticas de salud y económica; sin embargo, aquí donde comienza la patria, Tijuana está hecha de todas las personalidades, culturas, sabores y ganas de salir adelante. La ciudad es bondadosa y su gente también, por ello me complace trabajar cada día por impulsar su avance y desarrollo", aseguró la edil.
 
 Durante el solemne acto, la regidora Pérez Corona, destacó la importancia del trabajo de las secretarías y direcciones del órgano gubernamental en la vida de la ciudadanía, para atender sus necesidades, poniendo como ejemplo la ejecución del Cimabus, un medio de transporte con el que se provee un traslado seguro, de ida y vue
 lta, a  los estudiantes de la Universidad Autónoma de Baja California (UABC), ubicada en la Delegación La Presa Este.

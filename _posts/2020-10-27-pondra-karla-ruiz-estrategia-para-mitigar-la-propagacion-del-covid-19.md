@@ -13,7 +13,7 @@ autor: "CNR Noticias - Canal 73"
 
 **Tijuana, Baja California, a 27 de octubre.-** La alcaldesa de Tijuana, Karla Patricia Ruiz Macfarland, formó parte de la novena edición de la Cumbre Anual de Alcaldes Fronterizos entre México y Estados Unidos, que se realizó de manera virtual, ponderando las medidas que encabeza la administración municipal para mitigar la propagación del Covid-19, en la región, acciones que benefician a ambos lados de la frontera.
 
-“Estamos enfrentado un gran desafío al tratar de evitar la propagación de la enfermedad, en coordinación con autoridades federales y estatales en ambas regiones. Este nuevo virus ha afectado todos los aspectos, pero la población ha respetado los protocolos sanitarios, esto contribuye a no frenar la actividad económica pero siempre con la prioridad de salvaguardar la integridad física de los ciudadanos”, mencionó la primer edil.
+"Estamos enfrentado un gran desafío al tratar de evitar la propagación de la enfermedad, en coordinación con autoridades federales y estatales en ambas regiones. Este nuevo virus ha afectado todos los aspectos, pero la población ha respetado los protocolos sanitarios, esto contribuye a no frenar la actividad económica pero siempre con la prioridad de salvaguardar la integridad física de los ciudadanos", mencionó la primer edil.
 
 Ruiz Macfarland subrayó que la pandemia ha afectado a todo el mundo y esta región fronteriza no fue la excepción, por ello se promovió que los tijuanenses se quedaran en casa al facilitar trámites municipales de forma digital, también se realizaron operativos de vigilancia en el transporte público, centros comerciales, entre otros lugares, en aras de proteger a los ciudadanos.
 

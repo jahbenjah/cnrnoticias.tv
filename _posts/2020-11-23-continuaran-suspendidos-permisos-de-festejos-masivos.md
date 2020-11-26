@@ -17,7 +17,7 @@ El XXIII Ayuntamiento de Tijuana informa que en cumplimiento a la instrucción d
 La directora de Asuntos Religiosos, Iris Juárez Cruz, reconoció la labor de la Arquidiócesis de Tijuana por exhortar a la población a evitar en todos sus templos las peregrinaciones con motivo del Día de la Virgen de Guadalupe y únicamente realizar celebraciones eclesiásticas para los feligreses, con lo que se espera  prevenir aglomeraciones.
 
 
-“Nos reunimos con el arzobispo Francisco Moreno Barrón y el secretario Canciller de la Arquidiócesis, José Velasco Arias, acordando que durante el 12 de diciembre se ofrecerán cinco misas por día en cada templo católico, respetando el aforo del 30 por ciento de personas congregadas”, detalló la funcionaria.
+"Nos reunimos con el arzobispo Francisco Moreno Barrón y el secretario Canciller de la Arquidiócesis, José Velasco Arias, acordando que durante el 12 de diciembre se ofrecerán cinco misas por día en cada templo católico, respetando el aforo del 30 por ciento de personas congregadas", detalló la funcionaria.
 
 
 Juárez Cruz dijo que diciembre también es una fecha importante para la realización de festejos y eventos masivos de otras denominaciones religiosas pero están conscientes que primero es la salud de los tijuanenses y refrendaron el compromiso de cumplir con las disposiciones preventivas para evitar contagios del nuevo Coronavirus.

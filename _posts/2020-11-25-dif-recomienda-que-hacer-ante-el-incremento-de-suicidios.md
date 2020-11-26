@@ -1,6 +1,6 @@
 ﻿---
 layout: blog
-title:  “DIF recomienda que hacer ante el incremento de suicidios”
+title:  "DIF recomienda que hacer ante el incremento de suicidios"
 categories: rosarito
 permalink: /:categories/:title:output_ext
 image: /img/cnr/

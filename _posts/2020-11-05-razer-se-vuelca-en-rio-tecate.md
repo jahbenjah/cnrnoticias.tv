@@ -10,7 +10,7 @@ autor: "CNR Noticias - Canal 73"
 ---
 
 
-**Tecate, Baja California;  Jueves 5 de noviembre del 2020.-**Razer se vuelca en Río Tecate”
+**Tecate, Baja California;  Jueves 5 de noviembre del 2020.-**Razer se vuelca en Río Tecate"
 
 
 Vecinos del bulevar paseo de Las Águilas denuncian un fuerte estruendo, los hechos se registraron presuntamente en un fraccionamiento que está en construcción a un costado del Boulevard paseo de Las Águilas entre la colonia Guajardo y ampliación descanso. un vehículo deportivo todoterreno perdió el control al circular el bulevar Luis Donaldo Colosio, en el área como la bajada de la Guajardo,  se reporta una persona grave, más información en breves momentos.

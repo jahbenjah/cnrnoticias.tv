@@ -16,7 +16,7 @@ autor:
 El Gobierno Municipal, intensificó los trabajos de reconstrucción de un cajón pluvial de 25 metros lineales en la Vía Rápida Oriente en la Tercera Etapa del Río, donde se invierte 1 millón 200 mil pesos, obras que fueron supervisadas por el primer edil, Arturo González Cruz.
 
 
- “Recuperamos esta obra en la Tercera Etapa del Río Tijuana en la Delegación La Mesa, donde personas en situación de calle dañaron la estructura, por lo que se optó realizar los trabajos con material de concreto hidráulico, para garantizar la vida útil de la obra, que beneficiará a más de 300 mil personas”, explicó el jefe de la comuna.
+ "Recuperamos esta obra en la Tercera Etapa del Río Tijuana en la Delegación La Mesa, donde personas en situación de calle dañaron la estructura, por lo que se optó realizar los trabajos con material de concreto hidráulico, para garantizar la vida útil de la obra, que beneficiará a más de 300 mil personas", explicó el jefe de la comuna.
 
 
 González Cruz pidió paciencia y comprensión a la población ya que estos trabajos pudieran ocasionar molestias, pero que serán de beneficio para evitar inundaciones durante la próxima temporada de lluvias e impedir accidentes que pongan en riesgo la vida de las personas, con el compromiso de seguir trabajando, hoy todos por Tijuana.

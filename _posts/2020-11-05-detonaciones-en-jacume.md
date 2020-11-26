@@ -10,7 +10,7 @@ autor: "CNR Noticias - Canal 73"
 ---
 
 
-**Tecate, Baja California;  Jueves 5 de noviembre del 2020.-**Detonaciones en Jacume”
+**Tecate, Baja California;  Jueves 5 de noviembre del 2020.-**Detonaciones en Jacume"
 
 
 Reportan detonaciones de armas de fuego en Jacume, se habla de una fuerte balacera, los datos están aún por confirmar.

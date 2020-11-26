@@ -19,7 +19,7 @@ SANITARIA PARA FORTALECER MEDIDAS DE SALUD*
 
 La primer edil se comprometió a reforzar la campaña para la aplicación de la vacuna contra la influenza, así como a fortalecer las estrategias que invitan a la ciudadanía a seguir cumpliendo con las medidas sanitarias ante un probable rebrote de Covid-19 en la región.
 
-“Consolidaremos acciones en el transporte público, los mercados sobre ruedas y en las maquiladoras, con el apoyo de las cámaras y organismos empresariales, para mitigar la propagación de enfermedades; además, la gente que sufrió Covid-19, debe vacunarse contra la influenza para una mayor prevención”, indicó la mandataria.
+"Consolidaremos acciones en el transporte público, los mercados sobre ruedas y en las maquiladoras, con el apoyo de las cámaras y organismos empresariales, para mitigar la propagación de enfermedades; además, la gente que sufrió Covid-19, debe vacunarse contra la influenza para una mayor prevención", indicó la mandataria.
 
 Durante la reunión, Ruiz Macfarland coincidió con en la necesidad de cooperar en el desarrollo de programas intermunicipales, trabajar de la mano con el Gobierno del Estado, para fortalecer el programa Entornos y Comunidades Saludables, que se renueva con cada cambio de administración.
 

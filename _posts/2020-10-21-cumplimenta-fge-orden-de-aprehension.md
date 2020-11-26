@@ -16,7 +16,7 @@ Derivado de la integración de la carpeta de investigación realizada por el age
 
 Durante un operativo desplegado por elementos de la Guardia Estatal de Seguridad e Investigación **(GESI)**, se logró localizar al prófugo, en la colonia El Tecolote.
 
-El presunto responsable se identificado como Lucio Antonio “N”, quedó a disposición de las autoridades correspondientes quienes serán las encargadas de determinar su situación legal.
+El presunto responsable se identificado como Lucio Antonio "N", quedó a disposición de las autoridades correspondientes quienes serán las encargadas de determinar su situación legal.
 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
