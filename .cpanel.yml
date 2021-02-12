@@ -1,0 +1,24 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/cnrnoticias/public_html
+    - /bin/cp -R _site/assets $DEPLOYPATH
+    - /bin/cp -R _site/css $DEPLOYPATH
+    - /bin/cp -R _site/ensenada $DEPLOYPATH
+    - /bin/cp -R _site/img $DEPLOYPATH
+    - /bin/cp -R _site/js $DEPLOYPATH
+    - /bin/cp -R _site/lib $DEPLOYPATH
+    - /bin/cp -R _site/rosarito $DEPLOYPATH
+    - /bin/cp -R _site/tijuana $DEPLOYPATH
+    - /bin/cp -R _site/mexicali $DEPLOYPATH
+    - /bin/cp -R _site/san-diego $DEPLOYPATH
+    - /bin/cp -R _site/tecate $DEPLOYPATH
+    - /bin/cp _site/404.html $DEPLOYPATH
+    - /bin/cp _site/cobertura.html $DEPLOYPATH
+    - /bin/cp _site/contact.html $DEPLOYPATH
+    - /bin/cp _site/feed.xml $DEPLOYPATH
+    - /bin/cp _site/index.html $DEPLOYPATH
+    - /bin/cp _site/robots.txt $DEPLOYPATH
+    - /bin/cp _site/sitemap.xml $DEPLOYPATH
+    - /bin/cp _site/sw.js $DEPLOYPATH
+    - /bin/cp _site/site.webmanifest.json $DEPLOYPATH
