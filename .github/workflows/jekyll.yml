@@ -29,4 +29,4 @@ jobs:
         server: ftp.zonarosarito.com
         username: ftpdeploy@zonarosarito.com	
         password: Rosaritocentro1
-        local-dir: /github/workspace/_site/
+        local-dir: ./_site/
