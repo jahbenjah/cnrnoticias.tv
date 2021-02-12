@@ -22,3 +22,11 @@ jobs:
 
     # Standard usage
     - uses:  lemonarc/jekyll-action@1.0.0
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@4.0.0
+      with:
+        server: ftp.zonarosarito.com
+        username: ftpdeploy@zonarosarito.com
+        password: Rosaritocentro1
+        local-dir: ./_site/
