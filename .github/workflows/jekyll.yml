@@ -29,4 +29,4 @@ jobs:
         server: ftp.zonarosarito.com
         username: ftp@zonarosarito.com
         password: Rosaritocentro1
-      # local-dir: ./_site/
+        local-dir: img/
